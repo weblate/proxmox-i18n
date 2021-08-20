@@ -8,16 +8,17 @@ msgstr ""
 "Project-Id-Version: proxmox translations\n"
 "Report-Msgid-Bugs-To: <support@proxmox.com>\n"
 "POT-Creation-Date: Mon Jul  5 18:06:27 2021\n"
-"PO-Revision-Date: 2016-02-25 21:51+0100\n"
-"Last-Translator: Jostein Hove-Henriksen <jostein@hove-henriksen.no>\n"
-"Language-Team: Norwegian Bokmål\n"
-"Language: nb_NO\n"
+"PO-Revision-Date: 2021-08-20 12:14+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/proxmox/"
+"i18n/nb_NO/>\n"
+"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8-dev\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: Poedit 1.8.4\n"
 
 #: pve-manager/www/manager6/qemu/Options.js:95
 #, fuzzy
@@ -409,7 +410,7 @@ msgstr ""
 
 #: pve-manager/www/manager6/Utils.js:367
 msgid "All except {0}"
-msgstr "Alle utenom {0}"
+msgstr "Alle unntatt {0}"
 
 #: proxmox-backup/www/datastore/Content.js:783
 #, fuzzy
@@ -2060,7 +2061,7 @@ msgstr ""
 #: pve-manager/www/manager6/grid/FirewallOptions.js:107
 #: pve-manager/www/manager6/lxc/Options.js:88
 msgid "Default"
-msgstr "Standard"
+msgstr "Forvalg"
 
 #: proxmox-backup/www/window/NotifyOptions.js:6
 #, fuzzy
@@ -2188,7 +2189,7 @@ msgstr "Beskrivelse"
 
 #: pve-manager/www/manager6/grid/FirewallRules.js:210
 msgid "Dest. port"
-msgstr "Destinasjonsport"
+msgstr "Målport"
 
 #: pmg-gui/js/MailProxyTLSDestinations.js:34
 #: pmg-gui/js/MailProxyTLSDestinations.js:76
@@ -2331,7 +2332,7 @@ msgstr "Forkast"
 
 #: pve-manager/www/manager6/qemu/NetworkEdit.js:93
 msgid "Disconnect"
-msgstr "Kobl fra"
+msgstr "Koble fra"
 
 #: pve-manager/www/manager6/Utils.js:431
 #: pve-manager/www/manager6/ceph/OSD.js:41
@@ -2360,6 +2361,7 @@ msgstr "Diskstørrelse"
 #: pve-manager/www/manager6/lxc/MPEdit.js:220
 #: pve-manager/www/manager6/qemu/HDEdit.js:193
 #: pve-manager/www/manager6/qemu/HDEdit.js:215
+#, fuzzy
 msgid "Disk image"
 msgstr "Diskfil"
 
@@ -2732,7 +2734,7 @@ msgstr "E-post fra adresse"
 #: pve-manager/www/manager6/dc/Backup.js:210
 #: pve-manager/www/manager6/dc/Backup.js:598
 msgid "Email notification"
-msgstr "E-postvarsling"
+msgstr "E-postmerknad"
 
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:192
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:193
@@ -3497,7 +3499,7 @@ msgstr ""
 #: pve-manager/www/manager6/sdn/SubnetEdit.js:39
 #: pve-manager/www/manager6/sdn/SubnetView.js:112
 msgid "Gateway"
-msgstr "Gateway"
+msgstr "Portner"
 
 #: pve-manager/www/manager6/dc/AuthEditBase.js:112
 #: pve-manager/www/manager6/lxc/CreateWizard.js:22
@@ -3671,8 +3673,9 @@ msgid "Hash algorithm"
 msgstr ""
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:154
+#, fuzzy
 msgid "Hash policy"
-msgstr "Hash-regler"
+msgstr "Sjekksums-praksis"
 
 #: pmg-gui/js/ViewMailHeaders.js:78 pve-manager/www/manager6/Workspace.js:308
 msgid "Header"
@@ -3774,7 +3777,7 @@ msgstr ""
 #: pve-manager/www/manager6/lxc/DNS.js:126
 #: pve-manager/www/manager6/window/Clone.js:195
 msgid "Hostname"
-msgstr "Vertnavn"
+msgstr "Vertsnavn"
 
 #: pve-manager/www/manager6/node/Config.js:200
 #, fuzzy
@@ -3784,6 +3787,7 @@ msgstr "Vert"
 #: pve-manager/www/manager6/qemu/Options.js:158
 #: pve-manager/www/manager6/qemu/Options.js:163
 #: pve-manager/www/manager6/qemu/Options.js:169
+#, fuzzy
 msgid "Hotplug"
 msgstr "Hotplug"
 
@@ -3912,6 +3916,7 @@ msgstr "ISO-diskbildefil"
 
 #: pve-manager/www/manager6/Utils.js:710
 #: pve-manager/www/manager6/qemu/CDEdit.js:106
+#, fuzzy
 msgid "ISO image"
 msgstr "ISO-diskbildefil"
 
@@ -4490,7 +4495,7 @@ msgstr "Laster ..."
 
 #: proxmox-widget-toolkit/src/Utils.js:326
 msgid "Loading..."
-msgstr "Laster ..."
+msgstr "Laster …"
 
 #: pmg-gui/js/UserManagement.js:13
 msgid "Local"
@@ -4580,7 +4585,7 @@ msgstr ""
 #: pve-manager/www/manager6/window/LoginWindow.js:106
 #: proxmox-backup/www/LoginView.js:93
 msgid "Login failed. Please try again"
-msgstr "Innlogging feilet. Vennligst prøv igjen"
+msgstr "Innlogging feilet. Prøv igjen"
 
 #: pmg-gui/js/MainView.js:215 pmg-gui/js/QuarantineView.js:245
 #: pve-manager/www/manager6/Workspace.js:406 proxmox-backup/www/MainView.js:262
@@ -4907,7 +4912,7 @@ msgstr "Migrer"
 
 #: pve-manager/www/manager6/Utils.js:1802
 msgid "Migrate all VMs and Containers"
-msgstr "Migrer alle VM'er og beholdere"
+msgstr "Migrer alle VM-er og beholdere"
 
 #: pve-manager/www/manager6/dc/OptionView.js:193
 #, fuzzy
@@ -4938,7 +4943,7 @@ msgstr "Minimum minne"
 
 #: pve-manager/www/manager6/qemu/MemoryEdit.js:67
 msgid "Minimum memory"
-msgstr "Minimum minne"
+msgstr "Min. minne"
 
 #: proxmox-backup/www/Utils.js:25
 msgid "Mixed"
@@ -5534,6 +5539,7 @@ msgstr "Ingen nettverksenhet"
 #: pve-manager/www/manager6/sdn/zones/VlanEdit.js:50
 #: pve-manager/www/manager6/sdn/zones/VxlanEdit.js:52
 #: pve-manager/www/manager6/storage/Base.js:41
+#, fuzzy
 msgid "No restrictions"
 msgstr "Ingen avgrensinger"
 
@@ -6120,8 +6126,9 @@ msgstr "Avventende endringer"
 
 #: proxmox-widget-toolkit/src/node/NetworkView.js:465
 #: pmg-gui/js/SpamDetectorCustom.js:305
+#, fuzzy
 msgid "Pending changes"
-msgstr "Avventende endringer"
+msgstr "Utestående endringer"
 
 #: pmg-gui/js/SpamScoreDistribution.js:43
 msgid "Percentage"
@@ -6261,7 +6268,7 @@ msgstr ""
 #: proxmox-backup/www/config/TfaView.js:163
 #: proxmox-backup/www/window/AddWebauthn.js:62
 msgid "Please wait..."
-msgstr "Vennligst vent ..."
+msgstr "Vent …"
 
 #: proxmox-widget-toolkit/src/form/ACME.js:84
 #: proxmox-widget-toolkit/src/panel/ACMEDomains.js:404
@@ -6295,6 +6302,7 @@ msgstr "Inndataregler"
 #: pve-manager/www/manager6/storage/ZFSEdit.js:61
 #: proxmox-backup/www/tape/ChangerStatus.js:361
 #: proxmox-backup/www/tape/window/TapeRestore.js:779
+#, fuzzy
 msgid "Pool"
 msgstr "Pool"
 
@@ -6319,6 +6327,7 @@ msgid "Pool/Media-Set/Snapshot"
 msgstr ""
 
 #: pve-manager/www/manager6/dc/Config.js:108
+#, fuzzy
 msgid "Pools"
 msgstr "Pooler"
 
@@ -6685,6 +6694,7 @@ msgid "Rate limit"
 msgstr "Rate-grense"
 
 #: pve-manager/www/manager6/form/DiskFormatSelector.js:5
+#, fuzzy
 msgid "Raw disk image"
 msgstr "RAW-diskbildefil"
 
@@ -7240,6 +7250,7 @@ msgstr "Roller"
 #: pve-manager/www/manager6/Utils.js:1819
 #: pve-manager/www/manager6/Utils.js:1844
 #: pve-manager/www/manager6/tree/SnapshotTree.js:253
+#, fuzzy
 msgid "Rollback"
 msgstr "Rull tilbake"
 
@@ -7439,7 +7450,7 @@ msgstr ""
 #: pve-manager/www/manager6/storage/ZFSPoolEdit.js:9
 #: proxmox-backup/www/window/SyncJobEdit.js:13
 msgid "Scanning..."
-msgstr "Skanner..."
+msgstr "Skanner …"
 
 #: pmg-gui/js/PBSConfig.js:17 pmg-gui/js/PBSSnapshotView.js:122
 #: pmg-gui/js/PBSSnapshotView.js:177
@@ -7500,7 +7511,7 @@ msgstr "Søk"
 
 #: proxmox-widget-toolkit/src/node/DNSEdit.js:15
 msgid "Search domain"
-msgstr "Søke-domene"
+msgstr "Søkedomene"
 
 #: proxmox-backup/www/config/TfaView.js:22
 #, fuzzy
@@ -7573,8 +7584,9 @@ msgstr "Valg"
 
 #: pve-manager/www/manager6/dc/Backup.js:34
 #: pve-manager/www/manager6/dc/Backup.js:581
+#, fuzzy
 msgid "Selection mode"
-msgstr "Valgmodus"
+msgstr "Utvalgsmodus"
 
 #: pmg-gui/js/DKIMSettings.js:53 pmg-gui/js/DKIMSettings.js:61
 #: pmg-gui/js/DKIMSettings.js:139
@@ -7699,7 +7711,7 @@ msgstr "Tjenerlast"
 
 #: proxmox-widget-toolkit/src/node/TimeView.js:36
 msgid "Server time"
-msgstr "Servertid"
+msgstr "Tjenertid"
 
 #: proxmox-backup/www/ServerStatus.js:50
 #, fuzzy
@@ -8125,8 +8137,9 @@ msgstr "Konsoll"
 
 #: pve-manager/www/manager6/dc/Cluster.js:202
 #: pve-manager/www/manager6/dc/Health.js:33
+#, fuzzy
 msgid "Standalone node - no cluster defined"
-msgstr "Selvstendig node - ingen klynge definert"
+msgstr "Selvstendig node – ingen klynge definert"
 
 #: pve-manager/www/manager6/Utils.js:32
 msgid "Standard"
@@ -8213,7 +8226,7 @@ msgstr "Mål"
 #: pve-manager/www/manager6/window/StartupEdit.js:35
 #: pve-manager/www/manager6/window/StartupEdit.js:69
 msgid "Start/Shutdown order"
-msgstr "Start/slå av rekkefølge"
+msgstr "Start-/avstengingsrekkefølge"
 
 #: proxmox-backup/www/dashboard/RunningTasks.js:78
 #, fuzzy
@@ -8528,7 +8541,7 @@ msgstr "Pause"
 #: pve-manager/www/manager6/lxc/Resources.js:49
 #: pve-manager/www/manager6/panel/TemplateStatusView.js:53
 msgid "Swap"
-msgstr "Vekselminne"
+msgstr "Sidevekslingsminne"
 
 #: pmg-gui/js/ServerStatus.js:138 proxmox-backup/www/ServerStatus.js:218
 #: proxmox-backup/www/ServerStatus.js:220
@@ -8674,6 +8687,7 @@ msgstr "Lagring"
 
 #: pve-manager/www/manager6/tree/SnapshotTree.js:56
 #: pve-manager/www/manager6/tree/SnapshotTree.js:243
+#, fuzzy
 msgid "Take Snapshot"
 msgstr "Ta øyeblikksbilde"
 
@@ -8925,8 +8939,9 @@ msgstr "Pool"
 
 #: pve-manager/www/manager6/storage/ZFSEdit.js:101
 #: pve-manager/www/manager6/storage/ZFSPoolEdit.js:80
+#, fuzzy
 msgid "Thin provision"
-msgstr "Thin provision"
+msgstr "Tynn provisjonering"
 
 #: proxmox-widget-toolkit/src/Toolkit.js:127
 msgid "This is not a valid DNS name"
@@ -9418,7 +9433,7 @@ msgstr ""
 
 #: pve-manager/www/manager6/storage/ContentView.js:84
 msgid "Uploading file..."
-msgstr "Laster opp fil ..."
+msgstr "Laster opp fil …"
 
 #: pmg-gui/js/ClusterAdministration.js:272
 #: pve-manager/www/manager6/data/ResourceStore.js:230
@@ -9585,7 +9600,7 @@ msgstr "Bruker"
 
 #: pve-manager/www/manager6/dc/AuthEditLDAP.js:24
 msgid "User Attribute Name"
-msgstr "Brukeregenskapnavn"
+msgstr "Brukeregenskapsnavn"
 
 #: pmg-gui/js/NavigationTree.js:134
 msgid "User Blacklist"
@@ -10259,7 +10274,7 @@ msgstr "Skriveavgrensning"
 #: pve-manager/www/manager6/qemu/HDEdit.js:324
 #: pve-manager/www/manager6/qemu/HDEdit.js:342
 msgid "Write max burst"
-msgstr "Maks skriveutbrudd"
+msgstr "Maks. skriveutbrudd"
 
 #: pve-manager/www/manager6/ceph/Status.js:237
 #: pve-manager/www/manager6/ceph/Status.js:249
@@ -10334,6 +10349,7 @@ msgstr "Ikke mulig å laste abonnementstatus"
 
 #: pve-manager/www/manager6/storage/ZFSPoolEdit.js:50
 #: pve-manager/www/manager6/storage/ZFSPoolEdit.js:57
+#, fuzzy
 msgid "ZFS Pool"
 msgstr "ZFS-pool"
 
@@ -10449,7 +10465,7 @@ msgstr ""
 
 #: pve-manager/www/manager6/storage/ZFSEdit.js:93
 msgid "iSCSI Provider"
-msgstr "iSCSI-provider"
+msgstr "iSCSI-tilbyder"
 
 #: proxmox-backup/www/Utils.js:294
 #, fuzzy
