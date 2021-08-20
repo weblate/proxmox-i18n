@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: proxmox translations\n"
 "Report-Msgid-Bugs-To: <support@proxmox.com>\n"
 "POT-Creation-Date: Mon Jul  5 18:06:27 2021\n"
-"PO-Revision-Date: 2021-08-20 22:32+0000\n"
-"Last-Translator: Claudio Filho F Filho <filhocf@gmail.com>\n"
+"PO-Revision-Date: 2021-08-21 00:15+0000\n"
+"Last-Translator: Gilberto Ferreira <gilberto.nunes32@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "proxmox/i18n/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -742,7 +742,7 @@ msgstr "Backups"
 #: proxmox-backup/www/datastore/DataStoreListSummary.js:150
 #: proxmox-backup/www/datastore/Summary.js:162
 msgid "Bad Chunks"
-msgstr ""
+msgstr "Pedaços Ruins"
 
 #: pve-manager/www/manager6/Utils.js:1306
 msgid "Bad Request"
@@ -1066,20 +1066,17 @@ msgstr "Plugins de Desafio"
 
 #: proxmox-widget-toolkit/src/window/ACMEDomains.js:101
 #: pve-manager/www/manager6/node/ACME.js:253
-#, fuzzy
 msgid "Challenge Type"
-msgstr "Conteúdo"
+msgstr "Tipo de Desafio"
 
 #: proxmox-backup/www/window/BackupGroupChangeOwner.js:7
 #: proxmox-backup/www/window/BackupGroupChangeOwner.js:26
-#, fuzzy
 msgid "Change Owner"
-msgstr "Conteúdo"
+msgstr "Mudar Proprietário"
 
 #: proxmox-backup/www/config/UserView.js:149
-#, fuzzy
 msgid "Change Password"
-msgstr "Senha"
+msgstr "Mudar a Senha"
 
 #: pve-manager/www/manager6/Utils.js:1788
 msgid "Change global Ceph flags"
