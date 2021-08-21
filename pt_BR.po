@@ -8,68 +8,69 @@ msgstr ""
 "Project-Id-Version: proxmox translations\n"
 "Report-Msgid-Bugs-To: <support@proxmox.com>\n"
 "POT-Creation-Date: Mon Jul  5 18:06:27 2021\n"
-"PO-Revision-Date: 2012-10-04 15:33-0300\n"
-"Language-Team: Jean Franco <jfranco@maila.com.br>\n"
-"Language: \n"
+"PO-Revision-Date: 2021-08-21 00:15+0000\n"
+"Last-Translator: Gilberto Ferreira <gilberto.nunes32@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
+"proxmox/i18n/pt_BR/>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.8-dev\n"
 "X-Poedit-Language: Portuguese\n"
 "X-Poedit-Country: BRAZIL\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
 #: pve-manager/www/manager6/qemu/Options.js:95
-#, fuzzy
 msgid "(No boot device selected)"
-msgstr "Uso do disco"
+msgstr "(Dispositivo de boot não selecionado)"
 
 #: pve-manager/www/manager6/qemu/Options.js:124
 msgid "(no bootdisk)"
-msgstr ""
+msgstr "(sem disco de boot)"
 
 #: pve-manager/www/manager6/lxc/MPEdit.js:233
 msgid "/some/path"
-msgstr ""
+msgstr "/algum/caminho"
 
 #: pmg-gui/js/PBSConfig.js:39
 msgid "5 Minutes"
-msgstr ""
+msgstr "5 minutos"
 
 #: pve-manager/www/manager6/ceph/Services.js:193
 msgid ""
 "A newer version was installed but old version still running, please restart"
 msgstr ""
+"Uma nova versão foi instalada, mas a versão antiga ainda está rodando, favor "
+"reiniciar"
 
 #: proxmox-backup/www/config/CertificateView.js:62
-#, fuzzy
 msgid "ACME Accounts"
-msgstr "Montar"
+msgstr "Contas ACME"
 
 #: pmg-gui/js/Certificates.js:78
-#, fuzzy
 msgid "ACME Accounts/Challenges"
-msgstr "Montar"
+msgstr "Contas/Desafios ACME"
 
 #: proxmox-widget-toolkit/src/window/ACMEAccount.js:40
 #: pve-manager/www/manager6/node/ACME.js:37
-#, fuzzy
 msgid "ACME Directory"
-msgstr "Diretório"
+msgstr "Diretório ACME"
 
 #: pve-manager/www/manager6/qemu/Options.js:175
 #: pve-manager/www/manager6/qemu/Options.js:180
-#, fuzzy
 msgid "ACPI support"
-msgstr "Suporte"
+msgstr "Suporte ACPI"
 
 #: proxmox-widget-toolkit/src/window/ACMEPluginEdit.js:208
 #: pve-manager/www/manager6/dc/ACMEPluginEdit.js:193
 msgid "API Data"
-msgstr ""
+msgstr "Dados de API"
 
 #: pve-manager/www/manager6/dc/MetricServerView.js:307
 msgid "API Path Prefix"
-msgstr ""
+msgstr "Prefixo do Caminho da API"
 
 #: proxmox-widget-toolkit/src/window/TaskViewer.js:141
 #: pve-manager/www/manager6/dc/ACLView.js:44
@@ -80,22 +81,21 @@ msgstr ""
 #: proxmox-backup/www/panel/AccessControl.js:30
 #: proxmox-backup/www/window/ACLEdit.js:47
 msgid "API Token"
-msgstr ""
+msgstr "Token de API"
 
 #: pve-manager/www/manager6/dc/ACLView.js:40
 #: pve-manager/www/manager6/dc/ACLView.js:223
 #: proxmox-backup/www/config/ACLView.js:162
 #: proxmox-backup/www/window/ACLEdit.js:43
-#, fuzzy
 msgid "API Token Permission"
-msgstr "Permissões de Usuário"
+msgstr "Permissões do Token de API"
 
 #: pve-manager/www/manager6/dc/Config.js:94
 #: pve-manager/www/manager6/dc/TokenView.js:222
 #: pve-manager/www/manager6/dc/TokenView.js:228
 #: proxmox-backup/www/config/TokenView.js:33
 msgid "API Tokens"
-msgstr ""
+msgstr "Tokens de API"
 
 #: proxmox-widget-toolkit/src/panel/ACMEDomains.js:215
 #: proxmox-widget-toolkit/src/panel/Certificates.js:90
@@ -106,41 +106,41 @@ msgid ""
 "API server will be restarted to use new certificates, please reload web-"
 "interface!"
 msgstr ""
+"O servidor de API será reiniciado para usar novos certificados, recarregue a "
+"interface web!"
 
 #: proxmox-backup/www/window/TokenEdit.js:15
 msgid "API token"
-msgstr ""
+msgstr "Token de API"
 
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:145
 msgid "APT Repositories"
-msgstr ""
+msgstr "Repositórios de APT"
 
 #: pve-manager/www/manager6/storage/ContentView.js:104
 msgid "Abort"
-msgstr "Cancelar"
+msgstr "Abortar"
 
 #: proxmox-widget-toolkit/src/window/ACMEAccount.js:116
 #: pve-manager/www/manager6/node/ACME.js:113
 msgid "Accept TOS"
-msgstr ""
+msgstr "Aceitar TOS"
 
 #: proxmox-backup/www/NavigationTree.js:42
 #: proxmox-backup/www/panel/AccessControl.js:6
 msgid "Access Control"
-msgstr ""
+msgstr "Controle de Acesso"
 
 #: proxmox-widget-toolkit/src/window/ACMEAccount.js:154
 #: pmg-gui/js/LDAPConfig.js:242 pmg-gui/js/LDAPUserEditor.js:43
 #: pmg-gui/js/LDAPUserSelector.js:26 pve-manager/www/manager6/node/ACME.js:134
-#, fuzzy
 msgid "Account"
-msgstr "Montar"
+msgstr "Conta"
 
 #: proxmox-widget-toolkit/src/window/ACMEAccount.js:19
 #: pve-manager/www/manager6/node/ACME.js:17
-#, fuzzy
 msgid "Account Name"
-msgstr "Montar"
+msgstr "Nome da Conta"
 
 #: pmg-gui/js/LDAPConfig.js:145
 msgid "Account attribute name"
@@ -162,15 +162,15 @@ msgstr "Ação"
 
 #: pmg-gui/js/SpamQuarantine.js:128
 msgid "Action '{0}' for '{1}' items"
-msgstr ""
+msgstr "Ação '{0}' por '{1}' itens"
 
 #: pmg-gui/js/Utils.js:778 pmg-gui/js/Utils.js:882
 msgid "Action '{0}' for '{1}' items successful"
-msgstr ""
+msgstr "Ação '{0}' por '{1}' itens com sucesso"
 
 #: pmg-gui/js/Utils.js:779 pmg-gui/js/Utils.js:883
 msgid "Action '{0}' successful"
-msgstr ""
+msgstr "Ação '{0}' bem-sucedido"
 
 #: pmg-gui/js/NavigationTree.js:22 pmg-gui/js/Utils.js:58
 msgid "Action Objects"
@@ -180,9 +180,8 @@ msgstr "Objetos de Ação"
 #: proxmox-backup/www/tape/ChangerStatus.js:742
 #: proxmox-backup/www/tape/ChangerStatus.js:881
 #: proxmox-backup/www/tape/ChangerStatus.js:949
-#, fuzzy
 msgid "Actions"
-msgstr "Ação"
+msgstr "Ações"
 
 #: proxmox-widget-toolkit/src/form/NetworkSelector.js:111
 #: proxmox-widget-toolkit/src/node/NetworkView.js:361
@@ -197,7 +196,7 @@ msgstr "Ativo"
 
 #: pve-manager/www/manager6/Utils.js:725
 msgid "Active Directory Server"
-msgstr ""
+msgstr "Servidor Active Directory"
 
 #: proxmox-widget-toolkit/src/Utils.js:584
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:161
@@ -249,77 +248,69 @@ msgstr "Adicionar"
 
 #: proxmox-widget-toolkit/src/panel/ACMEDomains.js:314
 #: pve-manager/www/manager6/node/ACME.js:628
-#, fuzzy
 msgid "Add ACME Account"
-msgstr "Montar"
+msgstr "Adicionar Conta ACME"
 
 #: proxmox-backup/www/NavigationTree.js:106
-#, fuzzy
 msgid "Add Datastore"
-msgstr "Storage"
+msgstr "Adicionar Armazenamento"
 
 #: pve-manager/www/manager6/qemu/SystemEdit.js:122
-#, fuzzy
 msgid "Add EFI Disk"
-msgstr "Tamanho do disco"
+msgstr "Adicionar Disco EFI"
 
 #: pmg-gui/js/PBSConfig.js:112
-#, fuzzy
 msgid "Add Remote"
-msgstr "Remover"
+msgstr "Adicionar Remoto"
 
 #: pve-manager/www/manager6/node/Directory.js:52
 #: pve-manager/www/manager6/node/LVM.js:41
 #: pve-manager/www/manager6/node/LVMThin.js:39
 #: pve-manager/www/manager6/node/ZFS.js:57
-#, fuzzy
 msgid "Add Storage"
-msgstr "Storage"
+msgstr "Adicionar Armazenamento"
 
 #: pmg-gui/js/MailProxyTLS.js:14
 msgid "Add TLS received header"
-msgstr ""
+msgstr "Adicionar cabeçalho TLS recebido"
 
 #: proxmox-backup/www/tape/TapeInventory.js:187
-#, fuzzy
 msgid "Add Tape"
-msgstr "Storage"
+msgstr "Adicionar Fita"
 
 #: proxmox-backup/www/window/AddTotp.js:11
 msgid "Add a TOTP login factor"
-msgstr ""
+msgstr "Adicionar um login de fator TOTP"
 
 #: proxmox-backup/www/window/AddWebauthn.js:10
 msgid "Add a Webauthn login token"
-msgstr ""
+msgstr "Adicionar um token de login Webauthn"
 
 #: proxmox-backup/www/window/CreateDirectory.js:44
 #: proxmox-backup/www/window/ZFSCreate.js:32
-#, fuzzy
 msgid "Add as Datastore"
-msgstr "Storage"
+msgstr "Adicionar como Armazenamento de Dados"
 
 #: pve-manager/www/manager6/ceph/FS.js:48
 #: pve-manager/www/manager6/ceph/Pool.js:56
-#, fuzzy
 msgid "Add as Storage"
-msgstr "Storage"
+msgstr "Adicionar como Armazenamento"
 
 #: pve-manager/www/manager6/ceph/FS.js:53
-#, fuzzy
 msgid "Add the new CephFS to the cluster storage configuration."
-msgstr "Confirmar"
+msgstr "Adicione o novo CephFS à configuração de armazenamento do cluster."
 
 #: pve-manager/www/manager6/ceph/Pool.js:65
-#, fuzzy
 msgid "Add the new pool to the cluster storage configuration."
-msgstr "Confirmar"
+msgstr "Adicione o novo pool à configuração de armazenamento do cluster."
 
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:408
 msgid ""
 "Additional monitors are recommended. They can be created at any time in the "
 "Monitor tab."
 msgstr ""
+"Monitores adicionais é recomendado. Eles podem ser criados em qualquer tempo "
+"na aba Monitor."
 
 #: pmg-gui/js/UserBlackWhiteList.js:33 pmg-gui/js/UserBlackWhiteList.js:192
 #: pve-manager/www/manager6/ceph/ServiceList.js:304
@@ -346,11 +337,11 @@ msgstr "E-Mail do Administrador"
 #: proxmox-widget-toolkit/src/window/Edit.js:370
 #: pve-manager/www/manager6/window/Wizard.js:156
 msgid "Advanced"
-msgstr ""
+msgstr "Avançado"
 
 #: proxmox-backup/www/tape/DriveStatus.js:397
 msgid "Alert Flags"
-msgstr ""
+msgstr "Sinalizadores de alerta"
 
 #: pve-manager/www/manager6/dc/Config.js:219
 #: pve-manager/www/manager6/form/SDNVnetSelector.js:32
@@ -361,7 +352,7 @@ msgstr ""
 #: pve-manager/www/manager6/sdn/VnetEdit.js:34
 #: pve-manager/www/manager6/sdn/VnetView.js:96
 msgid "Alias"
-msgstr ""
+msgstr "Alias"
 
 #: proxmox-widget-toolkit/src/node/Tasks.js:333
 #: proxmox-widget-toolkit/src/node/Tasks.js:341
@@ -383,45 +374,42 @@ msgid "All"
 msgstr "Todos"
 
 #: pve-manager/www/manager6/qemu/PCIEdit.js:151
-#, fuzzy
 msgid "All Functions"
-msgstr "Seleção"
+msgstr "Todas as Funções"
 
 #: proxmox-backup/www/datastore/Content.js:768
 msgid "All OK"
-msgstr ""
+msgstr "Tudo OK"
 
 #: proxmox-backup/www/datastore/Content.js:764
 msgid "All OK (old)"
-msgstr ""
+msgstr "Tudo OK (antigo)"
 
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:437
 msgid "All OK, you have production-ready repositories configured!"
-msgstr ""
+msgstr "Tudo OK, você tem repositórios pronto para uso configurados!"
 
 #: proxmox-widget-toolkit/src/panel/DiskList.js:377
 msgid "All data on the device will be lost!"
-msgstr ""
+msgstr "Todos os dados no dispositivo serão perdidos!"
 
 #: pve-manager/www/manager6/Utils.js:367
 msgid "All except {0}"
-msgstr "Todos, exceto {0}"
+msgstr "Todos exceto {0}"
 
 #: proxmox-backup/www/datastore/Content.js:783
-#, fuzzy
 msgid "All failed"
-msgstr "Filtro LDAP"
+msgstr "Tudo falhou"
 
 #: pve-manager/www/manager6/node/ZFS.js:318 proxmox-backup/www/ZFSList.js:77
 msgid "Allocated"
-msgstr ""
+msgstr "Alocado"
 
 #: proxmox-backup/www/tape/PoolConfig.js:116
 #: proxmox-backup/www/tape/form/PoolSelector.js:30
 #: proxmox-backup/www/tape/window/PoolEdit.js:38
-#, fuzzy
 msgid "Allocation Policy"
-msgstr "Ação"
+msgstr "Política de Alocação"
 
 #: pmg-gui/js/SpamQuarantineOptions.js:66
 #: pmg-gui/js/VirusQuarantineOptions.js:19
@@ -430,7 +418,7 @@ msgstr "Permitir HREFs"
 
 #: pve-manager/www/manager6/window/BulkAction.js:85
 msgid "Allow local disk migration"
-msgstr ""
+msgstr "Permitir migração de disco local"
 
 #: proxmox-widget-toolkit/src/Toolkit.js:99
 #: proxmox-widget-toolkit/src/Toolkit.js:107
@@ -447,65 +435,59 @@ msgstr "Sempre"
 
 #: proxmox-backup/www/window/DataStoreEdit.js:128
 msgid "An absolute path"
-msgstr ""
+msgstr "Um caminho absoluto"
 
 #: proxmox-backup/www/window/AddWebauthn.js:107
 msgid "An error occurred during token registration."
-msgstr ""
+msgstr "Ocorreu um erro durante o registro do token."
 
 #: proxmox-widget-toolkit/src/window/LanguageEdit.js:45
 #: pmg-gui/js/SpamDetectorCustom.js:81 pve-manager/www/manager6/ceph/OSD.js:194
 #: pve-manager/www/manager6/dc/TFAEdit.js:507
 #: pve-manager/www/manager6/sdn/StatusView.js:42
 msgid "Apply"
-msgstr ""
+msgstr "Aplicar"
 
 #: proxmox-widget-toolkit/src/node/NetworkView.js:141
-#, fuzzy
 msgid "Apply Configuration"
-msgstr "Configuração"
+msgstr "Aplicar a Configuração"
 
 #: pmg-gui/js/SpamDetectorCustom.js:85 pmg-gui/js/SpamDetectorCustom.js:252
 msgid "Apply Custom Scores"
-msgstr ""
+msgstr "Aplicar Pontuações Personalizadas"
 
 #: pmg-gui/js/Utils.js:850
 msgid "Apply custom SpamAssassin scores"
-msgstr ""
+msgstr "Aplicar pontuações SpamAssassin personalizadas"
 
 #: pve-manager/www/manager6/lxc/Options.js:54
 msgid "Architecture"
-msgstr ""
+msgstr "Arquitetura"
 
 #: pmg-gui/js/Utils.js:457
 msgid "Archive Filter"
-msgstr ""
+msgstr "Filtro de arquivo"
 
 #: pmg-gui/js/Subscription.js:162
-#, fuzzy
 msgid "Are you sure to remove the subscription key?"
-msgstr "Tem certeza que deseja remover esta entrada"
+msgstr "Tem certeza que deseja remover esta chave de subscrição?"
 
 #: pve-manager/www/manager6/qemu/HardwareView.js:445
-#, fuzzy
 msgid "Are you sure you want to detach entry {0}"
-msgstr "Tem certeza que deseja remover a entrada {0}"
+msgstr "Tem certeza que deseja desanexar a entrada {0}"
 
 #: pmg-gui/js/PBSSnapshotView.js:224
-#, fuzzy
 msgid "Are you sure you want to forget snapshot {0}"
-msgstr "Tem certeza que deseja remover a entrada {0}"
+msgstr "Tem certeza que deseja descartar o snapshot {0}"
 
 #: proxmox-backup/www/tape/window/Erase.js:14
-#, fuzzy
 msgid "Are you sure you want to format tape '{0}' ?"
-msgstr "Tem certeza que deseja remover a entrada {0}"
+msgstr "Tem certeza que deseja formatar a fita '{0}' ?"
 
 #: proxmox-backup/www/tape/ChangerStatus.js:812
 #: proxmox-backup/www/tape/DriveStatus.js:240
-#, fuzzy
 msgid "Are you sure you want to format the inserted tape?"
-msgstr "Tem certeza de que deseja restaurar essa VM?"
+msgstr "Tem certeza de que deseja formatar a fita inserida?"
 
 #: proxmox-widget-toolkit/src/button/Button.js:136 pmg-gui/js/RuleInfo.js:41
 #: pmg-gui/js/UserBlackWhiteList.js:178
@@ -520,81 +502,74 @@ msgid "Are you sure you want to remove entry {0}"
 msgstr "Tem certeza que deseja remover a entrada {0}"
 
 #: proxmox-backup/www/datastore/Content.js:405
-#, fuzzy
 msgid "Are you sure you want to remove snapshot {0}"
-msgstr "Tem certeza que deseja remover a entrada {0}"
+msgstr "Tem certeza que deseja remover o snapshot {0}"
 
 #: proxmox-widget-toolkit/src/panel/Certificates.js:241
-#, fuzzy
 msgid "Are you sure you want to remove the certificate used for {0}"
-msgstr "Tem certeza que deseja remover a entrada {0}"
+msgstr "Tem certeza que deseja remover o certificado usado para {0}"
 
 #: pmg-gui/js/PBSSnapshotView.js:152
-#, fuzzy
 msgid "Are you sure you want to remove the schedule for {0}"
-msgstr "Tem certeza que deseja remover a entrada {0}"
+msgstr "Tem certeza que deseja remover a agenda para {0}"
 
 #: pve-manager/www/manager6/node/Subscription.js:180
 #: proxmox-backup/www/Subscription.js:173
-#, fuzzy
 msgid "Are you sure you want to remove the subscription key?"
-msgstr "Tem certeza que deseja remover esta entrada"
+msgstr "Tem certeza que deseja remover a chave de subscrição?"
 
 #: pve-manager/www/manager6/dc/ACLView.js:159
 msgid "Are you sure you want to remove this entry"
 msgstr "Tem certeza que deseja remover esta entrada"
 
 #: proxmox-backup/www/config/TfaView.js:317
-#, fuzzy
 msgid "Are you sure you want to remove this {0} entry?"
-msgstr "Tem certeza que deseja remover esta entrada"
+msgstr "Tem certeza que deseja remover esta entrada {0}?"
 
 #: pmg-gui/js/UserBlackWhiteList.js:173
-#, fuzzy
 msgid "Are you sure you want to remove {0} entries"
-msgstr "Tem certeza que deseja remover esta entrada"
+msgstr "Tem certeza que deseja remover a entrada {0}"
 
 #: proxmox-widget-toolkit/src/panel/DiskList.js:374
-#, fuzzy
 msgid "Are you sure you want to wipe {0}?"
-msgstr "Tem certeza que deseja remover a entrada {0}"
+msgstr "Tem certeza que deseja limpar {0}?"
 
 #: pve-manager/www/manager6/dc/ClusterEdit.js:301
 msgid ""
 "Assisted join: Paste encoded cluster join information and enter password."
 msgstr ""
+"Junção assistida: cole informações de junção de cluster codificada e insira "
+"a senha."
 
 #: pmg-gui/js/Utils.js:571
 msgid "Attach orig. Mail"
-msgstr ""
+msgstr "Anexe correio original"
 
 #: pmg-gui/js/AttachmentQuarantine.js:99 pmg-gui/js/NavigationTree.js:122
-#, fuzzy
 msgid "Attachment Quarantine"
-msgstr "Quarentena de Spam"
+msgstr "Quarentena de Anexo"
 
 #: proxmox-widget-toolkit/src/window/DiskSmart.js:35
 msgid "Attribute"
-msgstr ""
+msgstr "Atributo"
 
 #: pve-manager/www/manager6/qemu/AudioEdit.js:24
 #: pve-manager/www/manager6/qemu/AudioEdit.js:47
 #: pve-manager/www/manager6/qemu/HardwareView.js:285
 #: pve-manager/www/manager6/qemu/HardwareView.js:725
-#, fuzzy
 msgid "Audio Device"
-msgstr "Serviço"
+msgstr "Dispositivo de Áudio"
 
 #: pmg-gui/js/Utils.js:47
 msgid "Auditor"
-msgstr ""
+msgstr "Auditor"
 
 #: proxmox-backup/www/config/RemoteView.js:132
 #: proxmox-backup/www/form/AuthidSelector.js:85
 #: proxmox-backup/www/form/RemoteSelector.js:32
 #: proxmox-backup/www/window/RemoteEdit.js:95
 msgid "Auth ID"
-msgstr ""
+msgstr "ID de Autenticação"
 
 #: pve-manager/www/manager6/dc/Config.js:122
 #: proxmox-backup/www/SystemConfiguration.js:48
@@ -607,36 +582,33 @@ msgstr "Modo de Autenticação"
 
 #: proxmox-backup/www/config/WebauthnView.js:108
 msgid "Auto-fill"
-msgstr ""
+msgstr "Autopreenchimento"
 
 #: pve-manager/www/manager6/storage/PBSEdit.js:302
 msgid "Auto-generate a client encryption key"
-msgstr ""
+msgstr "Gerar automaticamente uma chave de criptografia do cliente"
 
 #: pve-manager/www/manager6/dc/AuthEditOpenId.js:48
-#, fuzzy
 msgid "Autocreate Users"
-msgstr "Criar CT"
+msgstr "Usuários Autocriados"
 
 #: pve-manager/www/manager6/window/Restore.js:95
 msgid "Autogenerate unique properties, e.g., MAC addresses"
-msgstr ""
+msgstr "Autogerar propriedades exclusivas, por exemplo, endereços MAC"
 
 #: pve-manager/www/manager6/ceph/OSD.js:71
 #: pve-manager/www/manager6/ceph/OSD.js:124
 #: pve-manager/www/manager6/qemu/Options.js:321
-#, fuzzy
 msgid "Automatic"
-msgstr "Início Automático"
+msgstr "Automático"
 
 #: pve-manager/www/manager6/qemu/Options.js:331
 msgid "Automatic (Storage used by the VM, or 'local')"
-msgstr ""
+msgstr "Automático (armazenamento usado pela VM ou 'local')"
 
 #: pve-manager/www/manager6/ceph/Pool.js:294
-#, fuzzy
 msgid "Autoscale Mode"
-msgstr "Início Automático"
+msgstr "Modo de Autodimensionamento"
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:52
 #: proxmox-widget-toolkit/src/node/NetworkView.js:371
@@ -649,7 +621,6 @@ msgstr "Disponível"
 
 #: pve-manager/www/manager6/form/MDevSelector.js:26
 #: proxmox-backup/www/dashboard/DataStoreStatistics.js:93
-#, fuzzy
 msgid "Available"
 msgstr "Disponível"
 
@@ -658,9 +629,8 @@ msgid "Available Objects"
 msgstr "Objetos Disponíveis"
 
 #: proxmox-backup/www/LoginView.js:398
-#, fuzzy
 msgid "Available recovery keys: "
-msgstr "Objetos Disponíveis"
+msgstr "Chaves de recuperação disponíveis: "
 
 #: pmg-gui/js/GeneralMailStatistics.js:119
 #: pmg-gui/js/dashboard/MailProcessing.js:49
@@ -669,7 +639,7 @@ msgstr "Tempo Médio de Processamento de e-mail"
 
 #: pmg-gui/js/Utils.js:612
 msgid "BCC"
-msgstr ""
+msgstr "CCO"
 
 #: pmg-gui/js/mobile/mailview.js:10
 #: pve-manager/www/manager6/window/Wizard.js:169
@@ -679,15 +649,15 @@ msgstr "Voltar"
 
 #: pve-manager/www/manager6/qemu/AudioEdit.js:34
 msgid "Backend Driver"
-msgstr ""
+msgstr "Driver de back-end"
 
 #: proxmox-backup/www/window/DataStoreEdit.js:127
 msgid "Backing Path"
-msgstr ""
+msgstr "Caminho de Apoio"
 
 #: pmg-gui/js/SpamDetectorOptions.js:37
 msgid "Backscatter Score"
-msgstr ""
+msgstr "Pontuação de retroespalhamento"
 
 #: pmg-gui/js/BackupConfiguration.js:5 pmg-gui/js/BackupRestore.js:78
 #: pmg-gui/js/BackupRestore.js:81 pmg-gui/js/BackupRestore.js:102
@@ -705,19 +675,16 @@ msgid "Backup"
 msgstr "Backup"
 
 #: proxmox-backup/www/datastore/Summary.js:112
-#, fuzzy
 msgid "Backup Count"
-msgstr "Tarefa de Backup"
+msgstr "Contagem de Backup"
 
 #: pve-manager/www/manager6/dc/Backup.js:843
-#, fuzzy
 msgid "Backup Details"
-msgstr "Tarefa de Backup"
+msgstr "Detalhes do Backup"
 
 #: proxmox-backup/www/datastore/Content.js:578
-#, fuzzy
 msgid "Backup Group"
-msgstr "Tarefa de Backup"
+msgstr "Grupo de Backup"
 
 #: pve-manager/www/manager6/Utils.js:1838
 #: pve-manager/www/manager6/dc/Backup.js:346
@@ -726,40 +693,34 @@ msgid "Backup Job"
 msgstr "Tarefa de Backup"
 
 #: proxmox-backup/www/tape/TapeManagement.js:55
-#, fuzzy
 msgid "Backup Jobs"
 msgstr "Tarefa de Backup"
 
 #: pmg-gui/js/BackupRestore.js:136 pmg-gui/js/PBSSnapshotView.js:200
-#, fuzzy
 msgid "Backup Now"
 msgstr "Backup Agora"
 
 #: pve-manager/www/manager6/dc/OptionView.js:186
-#, fuzzy
 msgid "Backup Restore"
-msgstr "Tarefa de Backup"
+msgstr "Restauração de Backup"
 
 #: pve-manager/www/manager6/storage/Base.js:195
-#, fuzzy
 msgid "Backup Retention"
-msgstr "Tarefa de Backup"
+msgstr "Retenção de Backup"
 
 #: pmg-gui/js/PBSRemoteEdit.js:21
-#, fuzzy
 msgid "Backup Server"
-msgstr "Tarefa de Backup"
+msgstr "Servidor de Backup"
 
 #: pve-manager/www/manager6/window/Prune.js:171
 #: proxmox-backup/www/datastore/Content.js:685
 #: proxmox-backup/www/datastore/Prune.js:194
-#, fuzzy
 msgid "Backup Time"
-msgstr "Backup"
+msgstr "Hora do Backup"
 
 #: pve-manager/www/manager6/storage/Base.js:106
 msgid "Backup content type not available for this storage."
-msgstr ""
+msgstr "Tipo de conteúdo de backup não disponível para este armazenamento."
 
 #: pve-manager/www/manager6/grid/BackupView.js:156
 msgid "Backup now"
@@ -767,63 +728,59 @@ msgstr "Backup Agora"
 
 #: pmg-gui/js/PBSSnapshotView.js:251
 msgid "Backup snapshots on '{0}'"
-msgstr ""
+msgstr "Snapshots de backup em '{0}'"
 
 #: pmg-gui/js/NavigationTree.js:90
-#, fuzzy
 msgid "Backup/Restore"
-msgstr "Tarefa de Backup"
+msgstr "Backup/Restauração"
 
 #: pve-manager/www/manager6/storage/Browser.js:62
 #: proxmox-backup/www/dashboard/TaskSummary.js:27
-#, fuzzy
 msgid "Backups"
-msgstr "Backup"
+msgstr "Backups"
 
 #: proxmox-backup/www/datastore/DataStoreListSummary.js:150
 #: proxmox-backup/www/datastore/Summary.js:162
 msgid "Bad Chunks"
-msgstr ""
+msgstr "Pedaços Ruins"
 
 #: pve-manager/www/manager6/Utils.js:1306
 msgid "Bad Request"
-msgstr ""
+msgstr "Solicitação Ruim"
 
 #: pve-manager/www/manager6/qemu/MemoryEdit.js:98
-#, fuzzy
 msgid "Ballooning Device"
-msgstr "Dispositivo de Boot"
+msgstr "Dispositivo de Balloning"
 
 #: pve-manager/www/manager6/dc/StorageView.js:148
 #: pve-manager/www/manager6/window/Restore.js:77
 msgid "Bandwidth Limit"
-msgstr ""
+msgstr "Limite de Banda"
 
 #: pve-manager/www/manager6/dc/OptionView.js:170
 msgid "Bandwidth Limits"
-msgstr ""
+msgstr "Limites de Banda"
 
 #: proxmox-backup/www/tape/ChangerStatus.js:340
 #: proxmox-backup/www/tape/ChangerStatus.js:683
 msgid "Barcode Label"
-msgstr ""
+msgstr "Etiqueta de código de barras"
 
 #: proxmox-backup/www/Utils.js:381
-#, fuzzy
 msgid "Barcode-Label Media"
-msgstr "Apagar dados"
+msgstr "Mídia de etiqueta de código de barras"
 
 #: pmg-gui/js/LDAPConfig.js:124
 msgid "Base DN"
-msgstr ""
+msgstr "Base DN"
 
 #: pmg-gui/js/LDAPConfig.js:131
 msgid "Base DN for Groups"
-msgstr "DN base para grupos."
+msgstr "DN de base para grupos"
 
 #: pve-manager/www/manager6/dc/AuthEditLDAP.js:16
 msgid "Base Domain Name"
-msgstr ""
+msgstr "Nome da Base de Domínio"
 
 #: pve-manager/www/manager6/storage/LVMEdit.js:125
 msgid "Base storage"
@@ -839,93 +796,85 @@ msgstr "Básico"
 
 #: pve-manager/www/manager6/dc/MetricServerView.js:331
 msgid "Batch Size (b)"
-msgstr ""
+msgstr "Tamanho do Lote (b)"
 
 #: pmg-gui/js/MailProxyOptions.js:81
 msgid "Before Queue Filtering"
-msgstr ""
+msgstr "Antes da Filtragem da Fila"
 
 #: pve-manager/www/manager6/dc/AuthEditLDAP.js:176
-#, fuzzy
 msgid "Bind Password"
-msgstr "Senha"
+msgstr "Senha de Bind"
 
 #: pve-manager/www/manager6/dc/AuthEditLDAP.js:169
-#, fuzzy
 msgid "Bind User"
-msgstr "Usuário"
+msgstr "Usuário de Bind"
 
 #: pmg-gui/js/QuarantineView.js:28 pmg-gui/js/SpamContextMenu.js:37
 #: pmg-gui/js/SpamQuarantine.js:357 pmg-gui/js/UserBlackWhiteList.js:54
 #: pmg-gui/js/UserBlackWhiteList.js:204 pmg-gui/js/mobile/mailview.js:29
 #: pmg-gui/js/mobile/quarantineview.js:94
 msgid "Blacklist"
-msgstr "Blacklist"
+msgstr "Lista negra"
 
 #: proxmox-widget-toolkit/src/window/FileBrowser.js:229
-#, fuzzy
 msgid "Block Device"
-msgstr "Serviço"
+msgstr "Dispositivo de Bloco"
 
 #: pve-manager/www/manager6/storage/ZFSEdit.js:68
 #: pve-manager/www/manager6/storage/ZFSPoolEdit.js:86
 #: proxmox-backup/www/tape/DriveStatus.js:332
 msgid "Block Size"
-msgstr ""
+msgstr "Tamanho do Bloco"
 
 #: pmg-gui/js/VirusDetectorOptions.js:11
-#, fuzzy
 msgid "Block encrypted archives and documents"
-msgstr "Bloquear Arquivos Criptografados"
+msgstr "Bloquear arquivos e documentos criptografados"
 
 #: pmg-gui/js/Utils.js:566
 msgid "Body"
-msgstr ""
+msgstr "Corpo"
 
 #: proxmox-widget-toolkit/src/node/NetworkView.js:395
-#, fuzzy
 msgid "Bond Mode"
-msgstr "Modo"
+msgstr "Modo Bond"
 
 #: pve-manager/www/manager6/qemu/BootOrderEdit.js:267
 #: pve-manager/www/manager6/qemu/Options.js:89
-#, fuzzy
 msgid "Boot Order"
 msgstr "Ordem de Boot"
 
 #: pve-manager/www/manager6/panel/GuestStatusView.js:97
 #: pve-manager/www/manager6/panel/TemplateStatusView.js:60
-#, fuzzy
 msgid "Bootdisk size"
-msgstr "Tamanho do disco"
+msgstr "Tamanho do disco de boot"
 
 #: pmg-gui/js/GeneralMailStatistics.js:54
 #: pmg-gui/js/GeneralMailStatistics.js:78
 #: pmg-gui/js/GeneralMailStatistics.js:180
 #: pmg-gui/js/GeneralMailStatistics.js:195
 msgid "Bounces"
-msgstr "Bounces"
+msgstr "Retornos"
 
 #: pve-manager/www/manager6/form/BridgeSelector.js:22
 #: pve-manager/www/manager6/lxc/Network.js:116
 #: pve-manager/www/manager6/lxc/Network.js:474
 #: pve-manager/www/manager6/qemu/NetworkEdit.js:69
 msgid "Bridge"
-msgstr ""
+msgstr "Ponte"
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:68
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:74
-#, fuzzy
 msgid "Bridge ports"
-msgstr "Origem"
+msgstr "Portas da ponte"
 
 #: proxmox-backup/www/datastore/Content.js:665
 msgid "Browse"
-msgstr ""
+msgstr "Navegador"
 
 #: pve-manager/www/manager6/dc/MetricServerView.js:281
 msgid "Bucket"
-msgstr ""
+msgstr "Balde"
 
 #: pmg-gui/js/ClamAVDatabase.js:85
 msgid "Build time"
@@ -933,41 +882,36 @@ msgstr "Construido em"
 
 #: pve-manager/www/manager6/dc/RoleView.js:51
 msgid "Built-In"
-msgstr ""
+msgstr "Built-In"
 
 #: pve-manager/www/manager6/node/Config.js:35
-#, fuzzy
 msgid "Bulk Actions"
-msgstr "Seleção"
+msgstr "Ações em massa"
 
 #: pve-manager/www/manager6/node/CmdMenu.js:60
 #: pve-manager/www/manager6/node/CmdMenu.js:66
 #: pve-manager/www/manager6/node/Config.js:67
 #: pve-manager/www/manager6/node/Config.js:72
-#, fuzzy
 msgid "Bulk Migrate"
-msgstr "Migrar"
+msgstr "Migração em massa"
 
 #: pve-manager/www/manager6/node/CmdMenu.js:32
 #: pve-manager/www/manager6/node/CmdMenu.js:38
 #: pve-manager/www/manager6/node/Config.js:41
 #: pve-manager/www/manager6/node/Config.js:46
-#, fuzzy
 msgid "Bulk Start"
-msgstr "Iniciar"
+msgstr "Inicio em massa"
 
 #: pve-manager/www/manager6/node/CmdMenu.js:46
 #: pve-manager/www/manager6/node/CmdMenu.js:52
 #: pve-manager/www/manager6/node/Config.js:54
 #: pve-manager/www/manager6/node/Config.js:59
-#, fuzzy
 msgid "Bulk Stop"
-msgstr "Parar"
+msgstr "Parada em massa"
 
 #: pve-manager/www/manager6/form/ControllerSelector.js:79
-#, fuzzy
 msgid "Bus/Device"
-msgstr "Serviço"
+msgstr "Barramento/Dispositivo"
 
 #: pve-manager/www/manager6/qemu/HardwareView.js:226
 #: pve-manager/www/manager6/qemu/HardwareView.js:641
@@ -977,7 +921,7 @@ msgstr "Drive de CD/DVD"
 #: proxmox-widget-toolkit/src/form/NetworkSelector.js:94
 #: proxmox-widget-toolkit/src/node/NetworkView.js:421
 msgid "CIDR"
-msgstr ""
+msgstr "CIDR"
 
 #: pmg-gui/js/Dashboard.js:401 pve-manager/www/manager6/Utils.js:439
 #: pve-manager/www/manager6/dc/Summary.js:37
@@ -987,19 +931,17 @@ msgstr ""
 #: pve-manager/www/manager6/qemu/CreateWizard.js:168
 #: proxmox-backup/www/Dashboard.js:299
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 #: pve-manager/www/manager6/lxc/ResourceEdit.js:64
 #: pve-manager/www/manager6/qemu/ProcessorEdit.js:179
-#, fuzzy
 msgid "CPU limit"
-msgstr "Uso de CPU"
+msgstr "Limite de CPU"
 
 #: pve-manager/www/manager6/lxc/ResourceEdit.js:74
 #: pve-manager/www/manager6/qemu/ProcessorEdit.js:189
-#, fuzzy
 msgid "CPU units"
-msgstr "Uso de CPU"
+msgstr "Unidades de CPU"
 
 #: pmg-gui/js/ServerStatus.js:115 pmg-gui/js/ServerStatus.js:118
 #: pve-manager/www/manager6/data/ResourceStore.js:177
@@ -1020,107 +962,94 @@ msgstr "Uso de CPU"
 #: proxmox-widget-toolkit/src/Utils.js:908
 #: pve-manager/www/manager6/node/StatusView.js:144
 msgid "CPU(s)"
-msgstr ""
+msgstr "CPU(s)"
 
 #: pve-manager/www/manager6/ha/Resources.js:112
-#, fuzzy
 msgid "CRM State"
-msgstr "Status"
+msgstr "Estado do CRM"
 
 #: proxmox-backup/www/datastore/Summary.js:117
 msgid "CT"
-msgstr ""
+msgstr "CT"
 
 #: pve-manager/www/manager6/storage/Browser.js:105
-#, fuzzy
 msgid "CT Templates"
-msgstr "Templates"
+msgstr "Modelos de CT"
 
 #: pve-manager/www/manager6/storage/Browser.js:82
-#, fuzzy
 msgid "CT Volumes"
-msgstr "Volume base"
+msgstr "Volumes do CT"
 
 #: pve-manager/www/manager6/qemu/HDEdit.js:225
-#, fuzzy
 msgid "Cache"
-msgstr "Sem alterações"
+msgstr "Cache"
 
 #: pve-manager/www/manager6/window/LoginWindow.js:403
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: pve-manager/www/manager6/storage/ImageView.js:52
-#, fuzzy
 msgid "Cannot remove disk image."
-msgstr "Imagem de disco"
+msgstr "Não é possível remover a imagem de disco."
 
 #: pve-manager/www/manager6/storage/ImageView.js:48
 msgid "Cannot remove image, a guest with VMID '{0}' exists!"
-msgstr ""
+msgstr "Não é possível remover a imagem, existe um convidado com VMID '{0}'!"
 
 #: pve-manager/www/manager6/form/StorageSelector.js:29
 msgid "Capacity"
-msgstr ""
+msgstr "Capacidade"
 
 #: proxmox-backup/www/Utils.js:498 proxmox-backup/www/tape/ChangerStatus.js:893
 #: proxmox-backup/www/tape/DriveStatus.js:277
 msgid "Cartridge Memory"
-msgstr ""
+msgstr "Cartucho de Memória"
 
 #: proxmox-backup/www/tape/ChangerStatus.js:797
 #: proxmox-backup/www/tape/DriveStatus.js:247
 #: proxmox-backup/www/tape/TapeInventory.js:264
 msgid "Catalog"
-msgstr ""
+msgstr "Catálogo"
 
 #: proxmox-backup/www/Utils.js:382
-#, fuzzy
 msgid "Catalog Media"
-msgstr "Apagar dados"
+msgstr "Apagar Mídia"
 
 #: pve-manager/www/manager6/ceph/Pool.js:199
-#, fuzzy
 msgid "Ceph Pool"
-msgstr "Pool"
+msgstr "Pool do Ceph"
 
 #: pve-manager/www/manager6/ceph/Status.js:55
-#, fuzzy
 msgid "Ceph Version"
-msgstr "Versão"
+msgstr "Versão do Ceph"
 
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:367
-#, fuzzy
 msgid "Ceph cluster configuration"
-msgstr "Confirmar"
+msgstr "Configuração do cluster Ceph"
 
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:62
-#, fuzzy
 msgid "Ceph in the cluster"
-msgstr "Criar CT"
+msgstr "Ceph no cluster"
 
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:27
-#, fuzzy
 msgid "Ceph version to install"
-msgstr "Versão"
+msgstr "Versão do Ceph para instalar"
 
 #: pve-manager/www/manager6/ceph/FS.js:75
 msgid "CephFS"
-msgstr ""
+msgstr "CephFS"
 
 #: proxmox-widget-toolkit/src/window/Certificates.js:5
 #: proxmox-widget-toolkit/src/window/Certificates.js:67
 #: pve-manager/www/manager6/node/Certificates.js:31
 #: pve-manager/www/manager6/node/Certificates.js:93
-#, fuzzy
 msgid "Certificate"
-msgstr "Notificação"
+msgstr "Certificado"
 
 #: proxmox-widget-toolkit/src/window/Certificates.js:166
 #: pve-manager/www/manager6/node/Certificates.js:175
-#, fuzzy
 msgid "Certificate Chain"
-msgstr "Notificação"
+msgstr "Cadeia de certificados"
 
 #: pmg-gui/js/Certificates.js:5 pmg-gui/js/Certificates.js:28
 #: pmg-gui/js/NavigationTree.js:96 pve-manager/www/manager6/node/Config.js:183
@@ -1128,42 +1057,39 @@ msgstr "Notificação"
 #: proxmox-backup/www/config/CertificateView.js:5
 #: proxmox-backup/www/config/CertificateView.js:26
 msgid "Certificates"
-msgstr ""
+msgstr "Certificados"
 
 #: proxmox-widget-toolkit/src/panel/ACMEPlugin.js:5
 #: pve-manager/www/manager6/dc/ACMEClusterView.js:126
 msgid "Challenge Plugins"
-msgstr ""
+msgstr "Plugins de Desafio"
 
 #: proxmox-widget-toolkit/src/window/ACMEDomains.js:101
 #: pve-manager/www/manager6/node/ACME.js:253
-#, fuzzy
 msgid "Challenge Type"
-msgstr "Conteúdo"
+msgstr "Tipo de Desafio"
 
 #: proxmox-backup/www/window/BackupGroupChangeOwner.js:7
 #: proxmox-backup/www/window/BackupGroupChangeOwner.js:26
-#, fuzzy
 msgid "Change Owner"
-msgstr "Conteúdo"
+msgstr "Mudar Proprietário"
 
 #: proxmox-backup/www/config/UserView.js:149
-#, fuzzy
 msgid "Change Password"
-msgstr "Senha"
+msgstr "Mudar a Senha"
 
 #: pve-manager/www/manager6/Utils.js:1788
 msgid "Change global Ceph flags"
-msgstr ""
+msgstr "Alterar sinalizadores Ceph globais"
 
 #: proxmox-backup/www/datastore/Content.js:640
 msgid "Change owner of '{0}'"
-msgstr ""
+msgstr "Alterar proprietário de '{0}'"
 
 #: proxmox-widget-toolkit/src/node/APT.js:138
 #: proxmox-widget-toolkit/src/node/APT.js:166
 msgid "Changelog"
-msgstr ""
+msgstr "Changelog"
 
 #: proxmox-backup/www/tape/ChangerStatus.js:664
 #: proxmox-backup/www/tape/window/ChangerEdit.js:8
@@ -1180,10 +1106,12 @@ msgstr "Conteúdo"
 #: proxmox-backup/www/config/WebauthnView.js:130
 msgid "Changing the Relying Party may break existing webAuthn TFA entries."
 msgstr ""
+"A alteração da Parte Confiante pode interromper as entradas existentes do "
+"webAuthn TFA."
 
 #: pmg-gui/js/SpamDetectorStatus.js:22
 msgid "Channel"
-msgstr ""
+msgstr "Canal"
 
 #: proxmox-widget-toolkit/src/window/FileBrowser.js:230
 #, fuzzy
@@ -1208,29 +1136,31 @@ msgstr "Serviço"
 
 #: pve-manager/www/manager6/qemu/USBEdit.js:99
 msgid "Choose Port"
-msgstr ""
+msgstr "Escolha a Porta"
 
 #: pve-manager/www/manager6/window/Restore.js:125
 msgid ""
 "Choose if you want to keep or override the privilege level of the restored "
 "Container."
 msgstr ""
+"Escolha se deseja manter ou substituir o nível de privilégio do Contêiner "
+"restaurado."
 
 #: pmg-gui/js/VirusDetectorConfiguration.js:18
 msgid "ClamAV"
-msgstr ""
+msgstr "ClamAV"
 
 #: pmg-gui/js/Utils.js:851
 msgid "ClamAV update"
-msgstr ""
+msgstr "Atualização do ClamAV"
 
 #: pve-manager/www/manager6/ceph/OSD.js:583
 msgid "Class"
-msgstr ""
+msgstr "Classe"
 
 #: pve-manager/www/manager6/ceph/StatusDetail.js:177
 msgid "Clean"
-msgstr ""
+msgstr "Limpar"
 
 #: proxmox-backup/www/tape/ChangerStatus.js:816
 #, fuzzy
@@ -1239,7 +1169,7 @@ msgstr "Drive de CD/DVD"
 
 #: pve-manager/www/manager6/ceph/OSD.js:157
 msgid "Cleanup Disks"
-msgstr ""
+msgstr "Discos de limpeza"
 
 #: proxmox-widget-toolkit/src/node/Tasks.js:186
 #: proxmox-widget-toolkit/src/node/Tasks.js:240
@@ -1255,7 +1185,7 @@ msgstr "Status do Serviço de Alta Disponibilidade"
 
 #: pmg-gui/js/MailTracker.js:418
 msgid "Client"
-msgstr ""
+msgstr "Cliente"
 
 #: pmg-gui/js/MailProxyOptions.js:64
 msgid "Client Connection Count Limit"
@@ -1267,7 +1197,7 @@ msgstr "Limite de Taxa de Conexão de Cliente"
 
 #: pve-manager/www/manager6/dc/AuthEditOpenId.js:31
 msgid "Client ID"
-msgstr ""
+msgstr "ID do Cliente"
 
 #: pve-manager/www/manager6/dc/AuthEditOpenId.js:37
 #, fuzzy
@@ -1288,21 +1218,21 @@ msgstr "Limite de Taxa de e-mail de cliente"
 #: pve-manager/www/manager6/qemu/Config.js:86
 #: pve-manager/www/manager6/window/Clone.js:295
 msgid "Clone"
-msgstr ""
+msgstr "Clonar"
 
 #: proxmox-widget-toolkit/src/window/DiskSmart.js:95
 #: pve-manager/www/manager6/storage/PBSEdit.js:132
 #: pve-manager/www/manager6/window/Settings.js:19
 #: proxmox-backup/www/window/Settings.js:14
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 #: pve-manager/www/manager6/qemu/CIDriveEdit.js:41
 #: pve-manager/www/manager6/qemu/CIDriveEdit.js:61
 #: pve-manager/www/manager6/qemu/HardwareView.js:227
 #: pve-manager/www/manager6/qemu/HardwareView.js:711
 msgid "CloudInit Drive"
-msgstr ""
+msgstr "Drive CloudInit"
 
 #: pmg-gui/js/NavigationTree.js:78
 #: pve-manager/www/manager6/dc/ClusterEdit.js:12
@@ -1314,7 +1244,7 @@ msgstr "Cluster"
 #: pmg-gui/js/ClusterAdministration.js:112
 #: pve-manager/www/manager6/dc/Cluster.js:26
 msgid "Cluster Administration"
-msgstr ""
+msgstr "Administração de Cluster"
 
 #: pve-manager/www/manager6/dc/Cluster.js:50
 #, fuzzy
@@ -1354,6 +1284,8 @@ msgstr "Log do Cluster"
 msgid ""
 "Cluster join task finished, node certificate may have changed, reload GUI!"
 msgstr ""
+"Tarefa de junção de cluster concluída, certificado de nó pode ter mudado, "
+"recarregue a GUI!"
 
 #: pve-manager/www/manager6/panel/StatusPanel.js:39
 msgid "Cluster log"
@@ -1361,7 +1293,7 @@ msgstr "Log do Cluster"
 
 #: pve-manager/www/manager6/dc/Backup.js:408
 msgid "Collapse All"
-msgstr ""
+msgstr "Recolher Todos"
 
 #: pve-manager/www/manager6/ha/Fencing.js:31
 #, fuzzy
@@ -1450,7 +1382,7 @@ msgstr "Comunidade"
 
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:300
 msgid "Components"
-msgstr ""
+msgstr "Componentes"
 
 #: pve-manager/www/manager6/dc/Backup.js:217
 #: pve-manager/www/manager6/dc/Backup.js:615
@@ -1468,7 +1400,7 @@ msgstr "Configuração"
 
 #: pve-manager/www/manager6/tree/ResourceTree.js:127
 msgid "Config locked ({0})"
-msgstr ""
+msgstr "Configuração bloqueada ({0})"
 
 #: pmg-gui/js/MailProxyConfiguration.js:5 pmg-gui/js/NavigationTree.js:48
 #: pmg-gui/js/SpamDetectorConfiguration.js:5
@@ -1495,7 +1427,7 @@ msgstr "Configuração"
 
 #: proxmox-backup/www/datastore/OptionView.js:33
 msgid "Configuration change only, no data will be deleted."
-msgstr ""
+msgstr "Apenas alteração de configuração, nenhum dado será excluído."
 
 #: pve-manager/www/manager6/Utils.js:1808
 #, fuzzy
@@ -1548,7 +1480,7 @@ msgstr "Seleção"
 
 #: proxmox-backup/www/config/TfaView.js:273
 msgid "Confirm TFA Removal"
-msgstr ""
+msgstr "Confirmar remoção de TFA"
 
 #: proxmox-widget-toolkit/src/window/PasswordEdit.js:30
 #: pmg-gui/js/UserEdit.js:70 pve-manager/www/manager6/dc/UserEdit.js:28
@@ -1578,6 +1510,7 @@ msgstr "Erro de Conexão"
 #: pve-manager/www/manager6/window/LoginWindow.js:109
 msgid "Connection failure. Network error or Proxmox VE services not running?"
 msgstr ""
+"Falha na conexão. Erro de rede ou serviços Proxmox VE não estão rodando?"
 
 #: proxmox-widget-toolkit/src/Utils.js:618 pmg-gui/js/ServerStatus.js:50
 #: pve-manager/www/manager6/Utils.js:1826
@@ -1654,7 +1587,7 @@ msgstr "Conteúdo"
 
 #: pmg-gui/js/Utils.js:390
 msgid "Content Type Filter"
-msgstr ""
+msgstr "Filtro de tipo de conteúdo"
 
 #: proxmox-backup/www/tape/form/AllocationSelector.js:7
 #, fuzzy
@@ -1679,7 +1612,7 @@ msgstr "Container OpenVZ"
 #: pve-manager/www/manager6/qemu/CmdMenu.js:129
 #: pve-manager/www/manager6/qemu/Config.js:94
 msgid "Convert to template"
-msgstr ""
+msgstr "Converter em modelo"
 
 #: pve-manager/www/manager6/grid/FirewallRules.js:567
 #: pve-manager/www/manager6/node/Summary.js:44
@@ -1706,7 +1639,7 @@ msgstr "Copiar dados"
 #: pve-manager/www/manager6/dc/TokenEdit.js:164
 #: proxmox-backup/www/window/TokenEdit.js:210
 msgid "Copy Secret Value"
-msgstr ""
+msgstr "Copiar Valor Secreto"
 
 #: pve-manager/www/manager6/Utils.js:1798
 msgid "Copy data"
@@ -1714,22 +1647,23 @@ msgstr "Copiar dados"
 
 #: pmg-gui/js/Utils.js:679
 msgid "Copy orignal mail to Attachment Quarantine"
-msgstr ""
+msgstr "Copiar e-mail original para Quarentena de Anexos"
 
 #: pve-manager/www/manager6/dc/ClusterEdit.js:61
 msgid "Copy the Join Information here and use it on the node you want to add."
 msgstr ""
+"Copie as informações de junção aqui e use-as no nó que deseja adicionar."
 
 #: pve-manager/www/manager6/lxc/ResourceEdit.js:93
 #: pve-manager/www/manager6/lxc/Resources.js:59
 #: pve-manager/www/manager6/qemu/ProcessorEdit.js:118
 msgid "Cores"
-msgstr ""
+msgstr "Núcleos"
 
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:85
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:116
 msgid "Could not detect a ceph installation in the cluster"
-msgstr ""
+msgstr "Não foi possível detectar uma instalação ceph no cluster"
 
 #: pmg-gui/js/ContactStatistics.js:158 pmg-gui/js/Dashboard.js:453
 #: pmg-gui/js/DomainStatistics.js:86 pmg-gui/js/DomainStatistics.js:130
@@ -1818,11 +1752,11 @@ msgstr "Criar"
 #: proxmox-backup/www/tape/window/TapeRestore.js:393
 #: proxmox-backup/www/tape/window/TapeRestore.js:403
 msgid "Current User"
-msgstr ""
+msgstr "Usuário Atual"
 
 #: pve-manager/www/manager6/window/Migrate.js:349
 msgid "Current layout"
-msgstr ""
+msgstr "Layout atual"
 
 #: pmg-gui/js/SpamQuarantineOptions.js:17
 #: pve-manager/www/manager6/form/CPUModelSelector.js:93
@@ -1833,10 +1767,12 @@ msgstr "Personalizar"
 msgid ""
 "Custom 2nd factor configuration is not supported on realms with '{0}' TFA."
 msgstr ""
+"A configuração personalizada de segundo fator não é suportada em domínios "
+"com '{0}' TFA."
 
 #: pmg-gui/js/SpamDetectorCustom.js:113 pmg-gui/js/SpamDetectorCustom.js:158
 msgid "Custom Rule Score"
-msgstr ""
+msgstr "Pontuação de Regra Personalizada"
 
 #: pmg-gui/js/SpamDetectorConfiguration.js:28
 #, fuzzy
@@ -1861,11 +1797,11 @@ msgstr "Tamanho do disco"
 #: pve-manager/www/manager6/qemu/IPConfigEdit.js:97
 #: pve-manager/www/manager6/qemu/IPConfigEdit.js:155
 msgid "DHCP"
-msgstr ""
+msgstr "DHCP"
 
 #: pmg-gui/js/MailProxyConfiguration.js:49
 msgid "DKIM"
-msgstr ""
+msgstr "DKIM"
 
 #: proxmox-widget-toolkit/src/node/DNSEdit.js:43
 #: pmg-gui/js/SystemConfiguration.js:36
@@ -1874,16 +1810,16 @@ msgstr ""
 #: pve-manager/www/manager6/node/Config.js:191
 #: proxmox-backup/www/SystemConfiguration.js:32
 msgid "DNS"
-msgstr ""
+msgstr "DNS"
 
 #: proxmox-widget-toolkit/src/form/ACME.js:5
 #: pve-manager/www/manager6/form/ACMEAPISelector.js:15
 msgid "DNS API"
-msgstr ""
+msgstr "API de DNS"
 
 #: pmg-gui/js/DKIMSettings.js:75
 msgid "DNS TXT Record"
-msgstr ""
+msgstr "Registro de DNS TXT"
 
 #: pve-manager/www/manager6/lxc/DNS.js:37
 #: pve-manager/www/manager6/lxc/DNS.js:146
@@ -1915,20 +1851,19 @@ msgstr "Procurar"
 
 #: pve-manager/www/manager6/sdn/SubnetEdit.js:53
 msgid "DNS zone prefix"
-msgstr ""
+msgstr "Prefixo de zona DNS"
 
 #: pmg-gui/js/MailProxyOptions.js:22
 msgid "DNSBL Sites"
-msgstr ""
+msgstr "Sites DNSBL"
 
 #: pmg-gui/js/MailProxyOptions.js:25
 msgid "DNSBL Threshold"
-msgstr ""
+msgstr "Limite DNSBL"
 
 #: proxmox-backup/www/tape/TapeInventory.js:138
-#, fuzzy
 msgid "Damaged"
-msgstr "Imagem de disco"
+msgstr "Danificado"
 
 #: pmg-gui/js/Dashboard.js:279 pmg-gui/js/NavigationTree.js:10
 #: proxmox-backup/www/Dashboard.js:248 proxmox-backup/www/NavigationTree.js:30
@@ -2012,11 +1947,11 @@ msgstr "Dia da semana"
 
 #: proxmox-backup/www/config/VerifyView.js:202
 msgid "Days"
-msgstr ""
+msgstr "Dias"
 
 #: proxmox-backup/www/Dashboard.js:31
 msgid "Days to show"
-msgstr ""
+msgstr "Dias para mostrar"
 
 #: pve-manager/www/manager6/Utils.js:1767
 #, fuzzy
@@ -2075,27 +2010,28 @@ msgstr "Relay Padrão"
 
 #: pve-manager/www/manager6/dc/AuthEditLDAP.js:191
 msgid "Default Sync Options"
-msgstr ""
+msgstr "Opções de sincronização padrão"
 
 #: pve-manager/www/manager6/dc/SyncWindow.js:138
 msgid "Default sync options can be set by editing the realm."
 msgstr ""
+"As opções de sincronização padrão podem ser definidas editando a região."
 
 #: pve-manager/www/manager6/dc/OptionView.js:149
 msgid "Defaults to origin"
-msgstr ""
+msgstr "Padrões para origem"
 
 #: pve-manager/www/manager6/dc/OptionView.js:158
 msgid "Defaults to requesting host URI"
-msgstr ""
+msgstr "O padrão é solicitar URI de host"
 
 #: pve-manager/www/manager6/window/Restore.js:78
 msgid "Defaults to target storage restore limit"
-msgstr ""
+msgstr "Padrões para limite de restauração de armazenamento de destino"
 
 #: pmg-gui/js/QueueAdministration.js:45
 msgid "Deferred Mail"
-msgstr ""
+msgstr "Correio Adiado"
 
 #: pmg-gui/js/PBSSnapshotView.js:182
 #, fuzzy
@@ -2131,11 +2067,11 @@ msgstr "Apagar todos os e-mails"
 
 #: pve-manager/www/manager6/node/Certificates.js:252
 msgid "Delete custom certificate and switch to generated one?"
-msgstr ""
+msgstr "Excluir o certificado personalizado e alternar para o gerado?"
 
 #: pve-manager/www/manager6/storage/PBSEdit.js:292
 msgid "Delete existing encryption key"
-msgstr ""
+msgstr "Excluir a chave de criptografia existente"
 
 #: pve-manager/www/manager6/qemu/HDMove.js:82
 #, fuzzy
@@ -2147,6 +2083,8 @@ msgid ""
 "Deleting or replacing the encryption key will break restoring backups "
 "created with it!"
 msgstr ""
+"Excluir ou substituir a chave de criptografia interromperá a restauração de "
+"backups criados com ela!"
 
 #: pmg-gui/js/AttachmentQuarantine.js:168 pmg-gui/js/SpamContextMenu.js:18
 #: pmg-gui/js/SpamQuarantine.js:363 pmg-gui/js/VirusQuarantine.js:177
@@ -2185,7 +2123,7 @@ msgstr "Descrição"
 
 #: pve-manager/www/manager6/grid/FirewallRules.js:210
 msgid "Dest. port"
-msgstr ""
+msgstr "Porta de destino"
 
 #: pmg-gui/js/MailProxyTLSDestinations.js:34
 #: pmg-gui/js/MailProxyTLSDestinations.js:76
@@ -2216,26 +2154,26 @@ msgstr "Destruir"
 
 #: pve-manager/www/manager6/Utils.js:1830
 msgid "Destroy image from unknown guest"
-msgstr ""
+msgstr "Destruir imagem de convidado desconhecido"
 
 #: pve-manager/www/manager6/window/SafeDestroyGuest.js:24
 msgid "Destroy unreferenced disks owned by guest"
-msgstr ""
+msgstr "Destruir discos não referenciados de propriedade do convidado"
 
 #: pve-manager/www/manager6/qemu/HardwareView.js:437
 msgid "Detach"
-msgstr ""
+msgstr "Desanexar"
 
 #: pve-manager/www/manager6/ceph/Status.js:107
 #: pve-manager/www/manager6/ceph/Status.js:113
 #: pve-manager/www/manager6/node/ZFS.js:369 proxmox-backup/www/ZFSList.js:117
 msgid "Detail"
-msgstr ""
+msgstr "Detalhe"
 
 #: proxmox-widget-toolkit/src/window/TaskViewer.js:64
 #: pve-manager/www/manager6/sdn/ZoneContentView.js:77
 msgid "Details"
-msgstr ""
+msgstr "Detalhes"
 
 #: proxmox-widget-toolkit/src/form/DiskSelector.js:21
 #: proxmox-widget-toolkit/src/form/MultiDiskSelector.js:93
@@ -2258,7 +2196,7 @@ msgstr "Serviço"
 
 #: pve-manager/www/manager6/Utils.js:1308
 msgid "Device Ineligible"
-msgstr ""
+msgstr "Dispositivo inelegível"
 
 #: proxmox-widget-toolkit/src/window/ZFSDetail.js:98
 #: pve-manager/www/manager6/node/ZFS.js:392
@@ -2269,7 +2207,7 @@ msgstr "Serviço"
 #: pve-manager/www/manager6/dc/TFAEdit.js:418
 #: proxmox-backup/www/window/AddTotp.js:200
 msgid "Digits"
-msgstr ""
+msgstr "Dígitos"
 
 #: pmg-gui/js/ObjectGroup.js:86 pmg-gui/js/RuleEditor.js:37
 #: pmg-gui/js/RuleInfo.js:248 pve-manager/www/manager6/grid/FirewallRules.js:94
@@ -2313,22 +2251,24 @@ msgid ""
 "Disabling the limiter can potentially allow a guest to overload the host. "
 "Proceed with caution."
 msgstr ""
+"Desativar o limitador pode permitir que um convidado sobrecarregue o host. "
+"Prossiga com cuidado."
 
 #: pve-manager/www/manager6/qemu/HDEdit.js:229
 msgid "Discard"
-msgstr ""
+msgstr "Descartar"
 
 #: pmg-gui/js/PostfixQShape.js:109
 msgid "Discard address verification database"
-msgstr ""
+msgstr "Descartar banco de dados de verificação de endereço"
 
 #: pmg-gui/js/Utils.js:687 pmg-gui/js/Utils.js:706
 msgid "Disclaimer"
-msgstr "Disclaimer"
+msgstr "Isenção de responsabilidade"
 
 #: pve-manager/www/manager6/qemu/NetworkEdit.js:93
 msgid "Disconnect"
-msgstr ""
+msgstr "Desconectar"
 
 #: pve-manager/www/manager6/Utils.js:431
 #: pve-manager/www/manager6/ceph/OSD.js:41
@@ -2393,7 +2333,7 @@ msgstr "Domínio"
 
 #: pve-manager/www/manager6/sdn/SubnetView.js:128
 msgid "Dns prefix"
-msgstr ""
+msgstr "Prefixo de DNS"
 
 #: pve-manager/www/manager6/sdn/zones/Base.js:31
 #, fuzzy
@@ -2412,9 +2352,8 @@ msgid "Do not use any media"
 msgstr "Não usar qualquer proxy"
 
 #: proxmox-backup/www/datastore/Content.js:831
-#, fuzzy
 msgid "Do you want to verify all snapshots now?"
-msgstr "Tem certeza que deseja remover a entrada {0}"
+msgstr "Tem certeza que deseja verificar os snapshots agora?"
 
 #: pmg-gui/js/MainView.js:187 pve-manager/www/manager6/Workspace.js:347
 #: proxmox-backup/www/MainView.js:226
@@ -2424,11 +2363,11 @@ msgstr "Autenticação"
 
 #: proxmox-backup/www/LoginView.js:665
 msgid "Does not look like a valid recovery key"
-msgstr ""
+msgstr "Não parece uma chave de recuperação válida"
 
 #: pve-manager/www/manager6/dc/ClusterEdit.js:311
 msgid "Does not seem like a valid encoded Cluster Information!"
-msgstr ""
+msgstr "Não parece uma informação de cluster codificada válida!"
 
 #: proxmox-widget-toolkit/src/panel/ACMEDomains.js:386
 #: proxmox-widget-toolkit/src/window/ACMEDomains.js:6
@@ -2483,11 +2422,12 @@ msgstr "Download"
 #: pve-manager/www/manager6/storage/PBSEdit.js:74
 msgid "Download the key to a USB (pen) drive, placed in secure vault."
 msgstr ""
+"Baixe a chave para uma unidade USB (pendrive), colocada em um cofre seguro."
 
 #: pve-manager/www/manager6/qemu/BootOrderEdit.js:183
 #: pve-manager/www/manager6/qemu/BootOrderEdit.js:195
 msgid "Drag and drop to reorder"
-msgstr ""
+msgstr "Arraste e solte para reordenar"
 
 #: proxmox-backup/www/Utils.js:182 proxmox-backup/www/Utils.js:381
 #: proxmox-backup/www/Utils.js:382 proxmox-backup/www/Utils.js:386
@@ -2507,7 +2447,7 @@ msgstr ""
 #: proxmox-backup/www/tape/window/TapeBackupJob.js:64
 #: proxmox-backup/www/tape/window/TapeRestore.js:415
 msgid "Drive"
-msgstr ""
+msgstr "Disco"
 
 #: proxmox-backup/www/tape/DriveConfig.js:168
 #: proxmox-backup/www/tape/window/DriveEdit.js:56
@@ -2517,12 +2457,12 @@ msgstr "Membros"
 
 #: proxmox-backup/www/tape/DriveStatus.js:69
 msgid "Drive is busy"
-msgstr ""
+msgstr "O disco está ocupado"
 
 #: proxmox-backup/www/tape/ChangerStatus.js:778
 #: proxmox-backup/www/tape/TapeManagement.js:36
 msgid "Drives"
-msgstr ""
+msgstr "Discos"
 
 #: pve-manager/www/manager6/qemu/AudioEdit.js:37
 #, fuzzy
@@ -2531,11 +2471,11 @@ msgstr "Serviço"
 
 #: pve-manager/www/manager6/dc/CorosyncLinkEdit.js:224
 msgid "Duplicate link address not allowed."
-msgstr ""
+msgstr "Endereço de link duplicado não permitido."
 
 #: pve-manager/www/manager6/dc/CorosyncLinkEdit.js:219
 msgid "Duplicate link number not allowed."
-msgstr ""
+msgstr "Número de link duplicado não permitido."
 
 #: proxmox-widget-toolkit/src/node/Tasks.js:401
 #: proxmox-widget-toolkit/src/window/TaskViewer.js:182
@@ -2552,7 +2492,7 @@ msgstr "Seleção"
 
 #: proxmox-backup/www/tape/DriveStatus.js:335
 msgid "Dynamic"
-msgstr ""
+msgstr "Dinâmico"
 
 #: proxmox-widget-toolkit/src/window/ACMEAccount.js:31
 #: proxmox-widget-toolkit/src/window/ACMEAccount.js:159
@@ -2563,15 +2503,15 @@ msgstr ""
 #: pve-manager/www/manager6/node/ACME.js:139
 #: proxmox-backup/www/window/UserEdit.js:118
 msgid "E-Mail"
-msgstr ""
+msgstr "E-Mail"
 
 #: pmg-gui/js/Dashboard.js:364
 msgid "E-Mail Processing"
-msgstr ""
+msgstr "Processamento de e-mail"
 
 #: pmg-gui/js/Dashboard.js:310
 msgid "E-Mail Volume"
-msgstr ""
+msgstr "Volume de e-mail"
 
 #: pmg-gui/js/LDAPConfig.js:313
 #, fuzzy
@@ -2580,7 +2520,7 @@ msgstr "Endereço IP"
 
 #: pmg-gui/js/LDAPConfig.js:296
 msgid "E-Mail addresses of '{0}'"
-msgstr ""
+msgstr "Endereços de e-mail de '{0}'"
 
 #: pve-manager/www/manager6/dc/AuthEditLDAP.js:181
 #, fuzzy
@@ -2596,11 +2536,11 @@ msgstr "Tamanho do disco"
 
 #: pve-manager/www/manager6/Utils.js:392
 msgid "EFI Disk without OMVF BIOS"
-msgstr ""
+msgstr "Disco EFI sem BIOS OMVF"
 
 #: pmg-gui/js/SpamQuarantineOptions.js:60
 msgid "EMail 'From:'"
-msgstr ""
+msgstr "E-Mail 'De:'"
 
 #: pmg-gui/js/LDAPConfig.js:138
 msgid "EMail attribute name(s)"
@@ -2695,7 +2635,7 @@ msgstr "Storage base"
 
 #: pve-manager/www/manager6/storage/PBSEdit.js:257
 msgid "Edit existing encryption key (dangerous!)"
-msgstr ""
+msgstr "Edite a chave de criptografia existente (perigoso!)"
 
 #: pmg-gui/js/ActionList.js:148
 #, fuzzy
@@ -2711,6 +2651,7 @@ msgstr "Endereço IP"
 msgid ""
 "Either reboot or use 'Apply Configuration' (needs ifupdown2) to activate"
 msgstr ""
+"Reinicialize ou use 'Aplicar configuração' (precisa do ifupdown2) para ativar"
 
 #: proxmox-backup/www/tape/BackupJobs.js:205
 #: proxmox-backup/www/tape/DriveStatus.js:225
@@ -2727,12 +2668,12 @@ msgstr "Apagar dados"
 
 #: pve-manager/www/manager6/dc/OptionView.js:88
 msgid "Email from address"
-msgstr ""
+msgstr "Email do endereço"
 
 #: pve-manager/www/manager6/dc/Backup.js:210
 #: pve-manager/www/manager6/dc/Backup.js:598
 msgid "Email notification"
-msgstr ""
+msgstr "Notificação por E-mail"
 
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:192
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:193
@@ -2749,7 +2690,7 @@ msgstr "Ativar"
 
 #: pmg-gui/js/DKIMSettings.js:127
 msgid "Enable DKIM Signing"
-msgstr ""
+msgstr "Habilitar assinatura DKIM"
 
 #: pve-manager/www/manager6/qemu/ProcessorEdit.js:198
 #, fuzzy
@@ -2763,7 +2704,7 @@ msgstr "Ativar"
 
 #: pmg-gui/js/MailProxyTLS.js:12
 msgid "Enable TLS Logging"
-msgstr ""
+msgstr "Habilitar registro TLS"
 
 #: pve-manager/www/manager6/dc/SyncWindow.js:117
 #, fuzzy
@@ -2820,7 +2761,7 @@ msgstr "Ativar"
 
 #: pve-manager/www/manager6/ceph/OSD.js:78
 msgid "Encrypt OSD"
-msgstr ""
+msgstr "Criptografar OSD"
 
 #: pve-manager/www/manager6/Utils.js:275
 #: pve-manager/www/manager6/grid/BackupView.js:345
@@ -2836,6 +2777,8 @@ msgid ""
 "Encrypted Files cannot be decoded on the server directly. Please use the "
 "client where the decryption key is located."
 msgstr ""
+"Arquivos criptografados não podem ser decodificados no servidor diretamente. "
+"Use o cliente onde a chave de descriptografia está localizada."
 
 #: pmg-gui/js/PBSConfig.js:166 pve-manager/www/manager6/storage/PBSEdit.js:452
 #: proxmox-backup/www/tape/PoolConfig.js:124
@@ -2875,15 +2818,15 @@ msgstr "Término"
 
 #: pve-manager/www/manager6/window/DownloadUrlToStorage.js:118
 msgid "Enter URL to download"
-msgstr ""
+msgstr "Insira o URL para baixar"
 
 #: pve-manager/www/manager6/node/StatusView.js:41
 msgid "Enterprise repository needs valid subscription"
-msgstr ""
+msgstr "O repositório empresarial precisa de uma assinatura válida"
 
 #: pve-manager/www/manager6/qemu/RNGEdit.js:52
 msgid "Entropy source"
-msgstr ""
+msgstr "Fonte de entropia"
 
 #: pve-manager/www/manager6/Utils.js:1799
 msgid "Erase data"
@@ -3041,12 +2984,12 @@ msgstr "Erro"
 #: proxmox-backup/www/dashboard/DataStoreStatistics.js:117
 #: proxmox-backup/www/datastore/DataStoreListSummary.js:126
 msgid "Estimated Full"
-msgstr ""
+msgstr "Estimado Cheio"
 
 #: proxmox-backup/www/form/CalendarEvent.js:14
 #: proxmox-backup/www/tape/form/AllocationSelector.js:16
 msgid "Every Saturday"
-msgstr ""
+msgstr "Todos os sábados"
 
 #: pve-manager/www/manager6/form/CalendarEvent.js:15
 #: proxmox-backup/www/form/CalendarEvent.js:10
@@ -3054,35 +2997,35 @@ msgstr ""
 #: proxmox-backup/www/tape/form/AllocationSelector.js:12
 #: proxmox-backup/www/tape/form/AllocationSelector.js:13
 msgid "Every day"
-msgstr ""
+msgstr "Todo dia"
 
 #: proxmox-backup/www/form/CalendarEvent.js:16
 #: proxmox-backup/www/tape/form/AllocationSelector.js:18
 msgid "Every first Saturday of the month"
-msgstr ""
+msgstr "Todo primeiro sábado do mês"
 
 #: proxmox-backup/www/form/CalendarEvent.js:15
 #: proxmox-backup/www/tape/form/AllocationSelector.js:17
 msgid "Every first day of the Month"
-msgstr ""
+msgstr "Todo primeiro dia do mês"
 
 #: proxmox-backup/www/form/CalendarEvent.js:8
 #: proxmox-backup/www/tape/form/AllocationSelector.js:10
 msgid "Every hour"
-msgstr ""
+msgstr "Cada hora"
 
 #: pve-manager/www/manager6/form/CalendarEvent.js:14
 #: proxmox-backup/www/form/CalendarEvent.js:9
 #: proxmox-backup/www/tape/form/AllocationSelector.js:11
 msgid "Every two hours"
-msgstr ""
+msgstr "Cada duas horas"
 
 #: pve-manager/www/manager6/form/CalendarEvent.js:13
 #: pve-manager/www/manager6/grid/Replication.js:38
 #: proxmox-backup/www/form/CalendarEvent.js:7
 #: proxmox-backup/www/tape/form/AllocationSelector.js:9
 msgid "Every {0} minutes"
-msgstr ""
+msgstr "A cada {0} minutos"
 
 #: proxmox-widget-toolkit/src/Toolkit.js:11
 #: proxmox-widget-toolkit/src/Toolkit.js:20
@@ -3123,11 +3066,11 @@ msgstr "Super-usuário"
 
 #: pve-manager/www/manager6/dc/Backup.js:403
 msgid "Expand All"
-msgstr ""
+msgstr "Expandir todos"
 
 #: pve-manager/www/manager6/lxc/FeaturesEdit.js:67
 msgid "Experimental"
-msgstr ""
+msgstr "Experimental"
 
 #: proxmox-widget-toolkit/src/form/ExpireDate.js:7 pmg-gui/js/UserEdit.js:96
 #: pmg-gui/js/UserView.js:150 pve-manager/www/manager6/dc/TokenView.js:183
@@ -3173,7 +3116,7 @@ msgstr "Filtro LDAP"
 
 #: proxmox-widget-toolkit/src/window/DiskSmart.js:65
 msgid "Failing"
-msgstr ""
+msgstr "Falhando"
 
 #: pve-manager/www/manager6/dc/AuthEditAD.js:31
 #: pve-manager/www/manager6/dc/AuthEditLDAP.js:38
@@ -3182,11 +3125,11 @@ msgstr "Servidor Fallback"
 
 #: pve-manager/www/manager6/qemu/Smbios1Edit.js:81
 msgid "Family"
-msgstr ""
+msgstr "Família"
 
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:491
 msgid "Fatal parsing error for at least one repository"
-msgstr ""
+msgstr "Erro fatal de análise para pelo menos um repositório"
 
 #: pve-manager/www/manager6/lxc/FeaturesEdit.js:124
 #: pve-manager/www/manager6/lxc/Options.js:137
@@ -3201,11 +3144,11 @@ msgstr ""
 #: proxmox-widget-toolkit/src/node/Tasks.js:184 pmg-gui/js/Utils.js:366
 #: pmg-gui/js/Utils.js:597
 msgid "Field"
-msgstr ""
+msgstr "Campo"
 
 #: proxmox-widget-toolkit/src/node/Tasks.js:182
 msgid "Fields"
-msgstr ""
+msgstr "Campos"
 
 #: proxmox-widget-toolkit/src/panel/Certificates.js:13
 #: proxmox-widget-toolkit/src/window/FileBrowser.js:232
@@ -3226,7 +3169,7 @@ msgstr "Tarefa de Backup"
 
 #: pve-manager/www/manager6/Utils.js:1804
 msgid "File Restore Download"
-msgstr ""
+msgstr "Baixar Restauração de Arquivo"
 
 #: pve-manager/www/manager6/window/DownloadUrlToStorage.js:143
 #, fuzzy
@@ -3259,11 +3202,11 @@ msgstr "Nome do arquivo"
 #: proxmox-widget-toolkit/src/node/Tasks.js:250 pmg-gui/js/MailTracker.js:81
 #: pmg-gui/js/PostfixMailQueue.js:132 proxmox-backup/www/panel/Tasks.js:166
 msgid "Filter"
-msgstr ""
+msgstr "Filtro"
 
 #: pve-manager/www/manager6/grid/BackupView.js:142
 msgid "Filter VMID"
-msgstr ""
+msgstr "Filtro VMID"
 
 #: proxmox-widget-toolkit/src/panel/Certificates.js:58
 #: proxmox-widget-toolkit/src/window/Certificates.js:21
@@ -3281,7 +3224,7 @@ msgstr ""
 #: proxmox-backup/www/tape/form/KeySelector.js:31
 #: proxmox-backup/www/window/RemoteEdit.js:116
 msgid "Fingerprint"
-msgstr ""
+msgstr "Impressão digital"
 
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:361
 #: pve-manager/www/manager6/window/Wizard.js:205
@@ -3301,11 +3244,11 @@ msgstr "Concluir"
 #: pve-manager/www/manager6/window/FirewallEnableEdit.js:6
 #: pve-manager/www/manager6/window/FirewallEnableEdit.js:22
 msgid "Firewall"
-msgstr ""
+msgstr "Firewall"
 
 #: pve-manager/www/manager6/ceph/CephInstallWizard.js:397
 msgid "First Ceph monitor"
-msgstr ""
+msgstr "Primeiro monitor Ceph"
 
 #: pmg-gui/js/UserEdit.js:118 pve-manager/www/manager6/dc/UserEdit.js:83
 #: proxmox-backup/www/window/UserEdit.js:102
@@ -3315,19 +3258,19 @@ msgstr "Nome"
 #: proxmox-backup/www/form/CalendarEvent.js:17
 #: proxmox-backup/www/tape/form/AllocationSelector.js:19
 msgid "First day of the year"
-msgstr ""
+msgstr "Primeiro dia do ano"
 
 #: proxmox-backup/www/tape/DriveStatus.js:337
 msgid "Fixed"
-msgstr ""
+msgstr "Fixo"
 
 #: proxmox-widget-toolkit/src/window/DiskSmart.js:61
 msgid "Flags"
-msgstr ""
+msgstr "Sinalizadores"
 
 #: pve-manager/www/manager6/qemu/Options.js:129
 msgid "Floppy"
-msgstr ""
+msgstr "Disquete"
 
 #: pmg-gui/js/PostfixMailQueue.js:123
 msgid "Flush"
@@ -3344,7 +3287,7 @@ msgstr "Diretórios"
 #: pve-manager/www/manager6/window/Settings.js:313
 #: proxmox-backup/www/window/Settings.js:213
 msgid "Font-Family"
-msgstr ""
+msgstr "Família de Fonte"
 
 #: pve-manager/www/manager6/window/Settings.js:321
 #: proxmox-backup/www/window/Settings.js:221
@@ -3354,16 +3297,18 @@ msgstr "Tamanho"
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:251
 msgid "For example, vmbr0.100, vmbr0, vlan0.100, vlan0"
-msgstr ""
+msgstr "Por exemplo, vmbr0.100, vmbr0, vlan0.100, vlan0"
 
 #: proxmox-backup/www/window/AddTotp.js:153
 #: proxmox-backup/www/window/AddWebauthn.js:189
 msgid "For example: TFA device ID, required to identify multiple factors."
 msgstr ""
+"Por exemplo: ID do dispositivo TFA, necessário para identificar vários "
+"fatores."
 
 #: pve-manager/www/manager6/window/Migrate.js:357
 msgid "Force"
-msgstr ""
+msgstr "Força"
 
 #: proxmox-backup/www/tape/window/TapeBackup.js:35
 #, fuzzy
@@ -3411,13 +3356,13 @@ msgstr "Autenticação"
 #: pve-manager/www/manager6/node/LVM.js:95
 #: pve-manager/www/manager6/node/ZFS.js:313 proxmox-backup/www/ZFSList.js:72
 msgid "Free"
-msgstr ""
+msgstr "Livre"
 
 #: pve-manager/www/manager6/qemu/Options.js:211
 #: pve-manager/www/manager6/qemu/Options.js:216
 #: pve-manager/www/manager6/qemu/Options.js:224
 msgid "Freeze CPU at startup"
-msgstr ""
+msgstr "Congelar CPU ao iniciar"
 
 #: pmg-gui/js/MailInfo.js:31 pmg-gui/js/MailTracker.js:367
 #: pmg-gui/js/ObjectGroupSelector.js:23 pmg-gui/js/RuleInfo.js:375
@@ -3453,17 +3398,17 @@ msgstr "Confirmar"
 #: pve-manager/www/manager6/dc/SyncWindow.js:102
 #: proxmox-backup/www/tape/TapeInventory.js:137
 msgid "Full"
-msgstr ""
+msgstr "Cheio"
 
 #: pve-manager/www/manager6/window/Clone.js:178
 msgid "Full Clone"
-msgstr ""
+msgstr "Clone completo"
 
 #: proxmox-backup/www/datastore/PruneAndGC.js:72
 #: proxmox-backup/www/datastore/PruneAndGC.js:77
 #: proxmox-backup/www/window/DataStoreEdit.js:135
 msgid "GC Schedule"
-msgstr ""
+msgstr "Agenda GC"
 
 #: proxmox-backup/www/Utils.js:389
 #, fuzzy
@@ -3472,15 +3417,15 @@ msgstr "Administração"
 
 #: proxmox-backup/www/window/NotifyOptions.js:78
 msgid "Garbage Collection"
-msgstr ""
+msgstr "Coleta de lixo"
 
 #: proxmox-backup/www/datastore/PruneAndGC.js:69
 msgid "Garbage Collection Schedule"
-msgstr ""
+msgstr "Agendamento para coleta de lixo"
 
 #: proxmox-backup/www/dashboard/TaskSummary.js:29
 msgid "Garbage collections"
-msgstr ""
+msgstr "Coletas de lixo"
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:315
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:329
@@ -3550,11 +3495,11 @@ msgstr "Grupos"
 
 #: pmg-gui/js/LDAPGroupEditor.js:69
 msgid "Group member"
-msgstr ""
+msgstr "Membro do grupo"
 
 #: pmg-gui/js/LDAPConfig.js:159
 msgid "Group objectclass"
-msgstr ""
+msgstr "Classe de objeto de grupo"
 
 #: pve-manager/www/manager6/dc/AuthEditLDAP.js:187
 msgid "Groupname attr."
@@ -3570,20 +3515,20 @@ msgstr "Grupos"
 
 #: pmg-gui/js/LDAPConfig.js:421
 msgid "Groups of '{0}'"
-msgstr ""
+msgstr "Grupos de '{0]'"
 
 #: pve-manager/www/manager6/grid/Replication.js:295
 msgid "Guest"
-msgstr ""
+msgstr "Convidado"
 
 #: pve-manager/www/manager6/qemu/AgentIPView.js:4
 msgid "Guest Agent Network Information"
-msgstr ""
+msgstr "Informação de rede do agente convidado"
 
 #: pve-manager/www/manager6/qemu/AgentIPView.js:151
 #: pve-manager/www/manager6/qemu/AgentIPView.js:163
 msgid "Guest Agent not running"
-msgstr ""
+msgstr "Agente convidado não está rodando"
 
 #: pve-manager/www/manager6/dc/Backup.js:416
 #, fuzzy
@@ -3597,7 +3542,7 @@ msgstr "Super-usuário"
 
 #: pve-manager/www/manager6/qemu/OSTypeEdit.js:51
 msgid "Guest OS"
-msgstr ""
+msgstr "Sistema operacional convidado"
 
 #: pve-manager/www/manager6/storage/CIFSEdit.js:147
 #, fuzzy
@@ -3606,11 +3551,11 @@ msgstr "Super-usuário"
 
 #: pve-manager/www/manager6/dc/Guests.js:6
 msgid "Guests"
-msgstr ""
+msgstr "Convidados"
 
 #: pve-manager/www/manager6/dc/Backup.js:937
 msgid "Guests without backup job"
-msgstr ""
+msgstr "Convidados sem trabalho de backup"
 
 #: pve-manager/www/manager6/ha/GroupEdit.js:201
 #, fuzzy
@@ -3633,14 +3578,14 @@ msgstr "Status"
 #: pmg-gui/js/ClusterAdministration.js:305
 #: pve-manager/www/manager6/node/StatusView.js:121
 msgid "HD space"
-msgstr ""
+msgstr "Espaço em disco"
 
 #: proxmox-widget-toolkit/src/grid/ObjectGrid.js:29
 #: pmg-gui/js/SystemOptions.js:78 pve-manager/www/manager6/dc/OptionView.js:77
 #: proxmox-backup/www/SystemConfiguration.js:68
 #: proxmox-backup/www/config/NodeOptionView.js:31
 msgid "HTTP proxy"
-msgstr ""
+msgstr "Proxy HTTP"
 
 #: pve-manager/www/manager6/qemu/CreateWizard.js:161
 #: pve-manager/www/manager6/qemu/HDEdit.js:381
@@ -3666,11 +3611,11 @@ msgstr "Saída"
 
 #: pve-manager/www/manager6/window/DownloadUrlToStorage.js:171
 msgid "Hash algorithm"
-msgstr ""
+msgstr "Algoritmo de hash"
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:154
 msgid "Hash policy"
-msgstr ""
+msgstr "Política de Hash"
 
 #: pmg-gui/js/ViewMailHeaders.js:78 pve-manager/www/manager6/Workspace.js:308
 msgid "Header"
@@ -4478,9 +4423,8 @@ msgstr ""
 
 #: proxmox-widget-toolkit/src/window/ACMEAccount.js:79
 #: pve-manager/www/manager6/node/ACME.js:76
-#, fuzzy
 msgid "Loading"
-msgstr "Carregando..."
+msgstr "Carregando"
 
 #: proxmox-widget-toolkit/src/Utils.js:326
 msgid "Loading..."
@@ -4574,7 +4518,7 @@ msgstr ""
 #: pve-manager/www/manager6/window/LoginWindow.js:106
 #: proxmox-backup/www/LoginView.js:93
 msgid "Login failed. Please try again"
-msgstr "Falha no login. Por favor, tente novamente."
+msgstr "Falha no login. Por favor, tente novamente"
 
 #: pmg-gui/js/MainView.js:215 pmg-gui/js/QuarantineView.js:245
 #: pve-manager/www/manager6/Workspace.js:406 proxmox-backup/www/MainView.js:262
@@ -5319,9 +5263,8 @@ msgstr "Não"
 
 #: proxmox-widget-toolkit/src/panel/ACMEDomains.js:305
 #: pve-manager/www/manager6/node/ACME.js:619
-#, fuzzy
 msgid "No Account available."
-msgstr "Disponível"
+msgstr "Nenhuma conta disponível."
 
 #: proxmox-widget-toolkit/src/panel/ACMEAccount.js:56
 #: pve-manager/www/manager6/dc/ACMEClusterView.js:73
@@ -5649,9 +5592,8 @@ msgid "Not Labeled"
 msgstr "Volume base"
 
 #: proxmox-widget-toolkit/src/Toolkit.js:143
-#, fuzzy
 msgid "Not a valid DNS name or IP address."
-msgstr "Este não é um nome de DNS válido"
+msgstr "Este não é um DNS ou IP válido."
 
 #: proxmox-widget-toolkit/src/Toolkit.js:169
 msgid "Not a valid list of hosts"
@@ -5684,9 +5626,8 @@ msgid "Note"
 msgstr "Notas"
 
 #: proxmox-backup/www/config/WebauthnView.js:121
-#, fuzzy
 msgid "Note:"
-msgstr "Notas"
+msgstr "Nota:"
 
 #: pve-manager/www/manager6/window/Restore.js:170
 msgid ""
@@ -5838,14 +5779,12 @@ msgstr "Por favor, aguarde..."
 
 #: pve-manager/www/manager6/window/LoginWindow.js:258
 #: proxmox-backup/www/LoginView.js:189
-#, fuzzy
 msgid "OpenID login failed, please try again"
-msgstr "Falha no login. Por favor, tente novamente."
+msgstr "Falha no login OpenID, tente novamente"
 
 #: proxmox-backup/www/LoginView.js:52
-#, fuzzy
 msgid "OpenID redirect failed, please try again"
-msgstr "Falha no login. Por favor, tente novamente."
+msgstr "Redirecionamento do OpenID falhou, tente novamente"
 
 #: pve-manager/www/manager6/window/LoginWindow.js:55
 #, fuzzy
@@ -6413,9 +6352,8 @@ msgid "Process ID"
 msgstr "Processadores"
 
 #: pmg-gui/js/SpamQuarantine.js:136
-#, fuzzy
 msgid "Processing..."
-msgstr "Processadores"
+msgstr "Processando..."
 
 #: pve-manager/www/manager6/panel/TemplateStatusView.js:40
 #: pve-manager/www/manager6/qemu/HardwareView.js:94
@@ -6997,9 +6935,8 @@ msgstr "Sem restrições"
 #: proxmox-backup/www/config/SyncView.js:159
 #: proxmox-backup/www/config/VerifyView.js:154
 #: proxmox-backup/www/tape/BackupJobs.js:157
-#, fuzzy
 msgid "Remove entry?"
-msgstr "Sem restrições"
+msgstr "Remover entrada?"
 
 #: pve-manager/www/manager6/window/SafeDestroyGuest.js:17
 msgid "Remove from replication, HA and backup jobs"
@@ -7564,9 +7501,8 @@ msgstr ""
 
 #: pmg-gui/js/AttachmentQuarantine.js:146 pmg-gui/js/SpamQuarantine.js:308
 #: pmg-gui/js/VirusQuarantine.js:155
-#, fuzzy
 msgid "Selected Mail"
-msgstr "Selecionar Arquivo..."
+msgstr "Correio selecionado"
 
 #: pve-manager/www/manager6/dc/Backup.js:1090
 msgid "Selection"
@@ -7877,9 +7813,8 @@ msgid "Shutdown backup server?"
 msgstr ""
 
 #: pve-manager/www/manager6/node/Config.js:98
-#, fuzzy
 msgid "Shutdown node '{0}'?"
-msgstr "Storage {0} no nó {1}"
+msgstr "Desligar o nó '{0}'?"
 
 #: pve-manager/www/manager6/qemu/CreateWizard.js:100
 #: pve-manager/www/manager6/window/StartupEdit.js:49
@@ -8389,7 +8324,7 @@ msgstr "parada"
 #: pve-manager/www/manager6/window/Backup.js:77
 #: pve-manager/www/manager6/window/Restore.js:39
 msgid "Storage"
-msgstr "Storage"
+msgstr "Armazenamento"
 
 #: proxmox-backup/www/NavigationTree.js:81
 #: proxmox-backup/www/panel/StorageAndDisks.js:6
@@ -8859,7 +8794,7 @@ msgstr "Template"
 #: pve-manager/www/manager6/storage/TemplateView.js:111
 #: pve-manager/www/manager6/storage/TemplateView.js:192
 msgid "Templates"
-msgstr "Templates"
+msgstr "Modelos"
 
 #: proxmox-widget-toolkit/src/window/ACMEAccount.js:180
 #: pve-manager/www/manager6/node/ACME.js:160
@@ -9126,7 +9061,7 @@ msgstr ""
 
 #: pmg-gui/js/MailTracker.js:228 pmg-gui/js/NavigationTree.js:140
 msgid "Tracking Center"
-msgstr "Tracking Center"
+msgstr "Centro de Rastreio"
 
 #: pmg-gui/js/DomainStatistics.js:79 pmg-gui/js/DomainStatistics.js:123
 #: pmg-gui/js/dashboard/MailProcessing.js:33
@@ -9431,7 +9366,7 @@ msgstr "Enviando arquivo ..."
 #: pve-manager/www/manager6/node/StatusView.js:182
 #: pve-manager/www/manager6/panel/GuestStatusView.js:133
 msgid "Uptime"
-msgstr "Uptime"
+msgstr "Tempo de atividade"
 
 #: pve-manager/www/manager6/sdn/ipams/NetboxEdit.js:33
 #: pve-manager/www/manager6/sdn/ipams/PhpIpamEdit.js:33
@@ -10030,7 +9965,7 @@ msgstr "E-mails com Vírus"
 
 #: pmg-gui/js/GeneralMailStatistics.js:114
 msgid "Virus Outbreaks"
-msgstr "Virus Outbreaks"
+msgstr "Manifestação de vírus"
 
 #: pmg-gui/js/NavigationTree.js:116 pmg-gui/js/VirusQuarantine.js:102
 msgid "Virus Quarantine"
@@ -10185,7 +10120,7 @@ msgstr "Objetos Quando"
 #: pmg-gui/js/UserBlackWhiteList.js:56 pmg-gui/js/UserBlackWhiteList.js:240
 #: pmg-gui/js/mobile/mailview.js:36 pmg-gui/js/mobile/quarantineview.js:87
 msgid "Whitelist"
-msgstr "Whitelist"
+msgstr "Lista Branca"
 
 #: pmg-gui/js/NavigationTree.js:28 pmg-gui/js/Utils.js:55
 msgid "Who Objects"
@@ -10333,9 +10268,8 @@ msgstr ""
 #: pmg-gui/js/dashboard/SubscriptionInfo.js:21
 #: pve-manager/www/manager6/dc/Summary.js:258
 #: proxmox-backup/www/Dashboard.js:390
-#, fuzzy
 msgid "Your subscription status is valid."
-msgstr "Enviar chave de assinatura"
+msgstr "A subscrição é válida."
 
 #: pve-manager/www/manager6/storage/ZFSPoolEdit.js:50
 #: pve-manager/www/manager6/storage/ZFSPoolEdit.js:57
