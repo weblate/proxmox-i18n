@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: proxmox translations\n"
 "Report-Msgid-Bugs-To: <support@proxmox.com>\n"
 "POT-Creation-Date: Mon Jul  5 18:06:27 2021\n"
-"PO-Revision-Date: 2021-08-22 11:51+0000\n"
+"PO-Revision-Date: 2021-08-22 17:14+0000\n"
 "Last-Translator: Claudio Filho F Filho <filhocf@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "proxmox/i18n/pt_BR/>\n"
@@ -1112,7 +1112,6 @@ msgid "Channel"
 msgstr "Canal"
 
 #: proxmox-widget-toolkit/src/window/FileBrowser.js:230
-#, fuzzy
 msgid "Character Device"
 msgstr "Dispositivo de personagem"
 
@@ -4511,9 +4510,8 @@ msgid "Max. Restart"
 msgstr "Máx. de Reinícios"
 
 #: pve-manager/www/manager6/dc/OptionView.js:212
-#, fuzzy
 msgid "Maximal Workers/bulk-action"
-msgstr "Máximo de tarefas/ações em massa"
+msgstr "Máximo de trabalhadores/ações em massa"
 
 #: proxmox-widget-toolkit/src/Toolkit.js:101
 msgid "Maximum characters"
@@ -5149,45 +5147,39 @@ msgid "No Subscription"
 msgstr "Sem subscrição"
 
 #: proxmox-backup/www/dashboard/LongestTasks.js:10
-#, fuzzy
 msgid "No Tasks"
-msgstr "Tarefas"
+msgstr "Sem Tarefas"
 
 #: proxmox-widget-toolkit/src/node/Tasks.js:362
 #: proxmox-backup/www/panel/Tasks.js:299
-#, fuzzy
 msgid "No Tasks found"
-msgstr "Tarefas"
+msgstr "Tarefas não encontradas"
 
 #: pve-manager/www/manager6/form/VMSelector.js:148
 msgid "No VM selected"
-msgstr ""
+msgstr "VM não selecionada"
 
 #: pve-manager/www/manager6/node/LVM.js:55
-#, fuzzy
 msgid "No Volume Groups found"
-msgstr "Grupo de volume"
+msgstr "Grupos de volume não encontrados"
 
 #: pve-manager/www/manager6/ceph/Status.js:79
 msgid "No Warnings/Errors"
-msgstr ""
+msgstr "Sem Alertas/Erros"
 
 #: pmg-gui/js/PBSSnapshotView.js:197
-#, fuzzy
 msgid "No backups on remote"
-msgstr "Sem backup"
+msgstr "Sem backup no remoto"
 
 #: pve-manager/www/manager6/form/CacheTypeSelector.js:5
 #: pve-manager/www/manager6/form/CacheTypeSelector.js:10
-#, fuzzy
 msgid "No cache"
-msgstr "Sem alterações"
+msgstr "Sem cache"
 
 #: proxmox-widget-toolkit/src/window/Certificates.js:137
 #: pve-manager/www/manager6/node/Certificates.js:153
-#, fuzzy
 msgid "No change"
-msgstr "Sem alterações"
+msgstr "Sem alteração"
 
 #: proxmox-widget-toolkit/src/node/NetworkView.js:76
 #: proxmox-widget-toolkit/src/node/NetworkView.js:471
@@ -5203,34 +5195,30 @@ msgstr "Sem alterações"
 #: pmg-gui/js/UserBlackWhiteList.js:16 pmg-gui/js/UserBlackWhiteList.js:153
 #: pmg-gui/js/VirusCharts.js:12 pmg-gui/js/VirusQuarantine.js:104
 msgid "No data in database"
-msgstr ""
+msgstr "Sem dados no banco de dados"
 
 #: pve-manager/www/manager6/dc/SyncWindow.js:82
 #: pve-manager/www/manager6/dc/SyncWindow.js:94
 #: pve-manager/www/manager6/dc/SyncWindow.js:122
 msgid "No default available"
-msgstr ""
+msgstr "Sem padrão disponível"
 
 #: proxmox-backup/www/window/BackupFileDownloader.js:89
-#, fuzzy
 msgid "No file selected"
-msgstr "Uso do disco"
+msgstr "Arquivo não selecionado"
 
 #: pmg-gui/js/QuarantineList.js:258
-#, fuzzy
 msgid "No match found"
-msgstr "Tarefas"
+msgstr "Nenhuma combinação encontrada"
 
 #: pve-manager/www/manager6/qemu/NetworkEdit.js:103
-#, fuzzy
 msgid "No network device"
-msgstr "Dispositivo de Rede"
+msgstr "Sem dispositivo de rede"
 
 #: pve-manager/www/manager6/qemu/AgentIPView.js:14
 #: pve-manager/www/manager6/qemu/AgentIPView.js:148
-#, fuzzy
 msgid "No network information"
-msgstr "Dispositivo de Rede"
+msgstr "Sem informação de rede"
 
 #: pve-manager/www/manager6/sdn/zones/EvpnEdit.js:78
 #: pve-manager/www/manager6/sdn/zones/QinQEdit.js:69
@@ -5242,40 +5230,39 @@ msgid "No restrictions"
 msgstr "Sem restrições"
 
 #: proxmox-backup/www/dashboard/RunningTasks.js:6
-#, fuzzy
 msgid "No running tasks"
-msgstr "em execuçao"
+msgstr "Sem tarefas rodando"
 
 #: pmg-gui/js/PBSSnapshotView.js:126
 msgid "No schedule setup."
-msgstr ""
+msgstr "Sem configuração de agendamento."
 
 #: pve-manager/www/manager6/ceph/ServiceList.js:52
 msgid "No such service configured."
-msgstr ""
+msgstr "Nenhum serviço configurado."
 
 #: pve-manager/www/manager6/node/LVMThin.js:53
+#, fuzzy
 msgid "No thinpools found"
-msgstr ""
+msgstr "Nenhum thinpools encontrado"
 
 #: proxmox-widget-toolkit/src/node/APT.js:204
 msgid "No updates available."
-msgstr ""
+msgstr "Sem atualizações disponíveis."
 
 #: proxmox-widget-toolkit/src/Utils.js:507
 #: pmg-gui/js/mobile/quarantineview.js:51 pmg-gui/js/mobile/utils.js:145
 #: pmg-gui/js/mobile/utils.js:151 proxmox-backup/www/Dashboard.js:398
-#, fuzzy
 msgid "No valid subscription"
-msgstr "Enviar chave de assinatura"
+msgstr "Sem subscrição válida"
 
 #: pve-manager/www/manager6/ceph/FS.js:102
 msgid "No {0} configured."
-msgstr ""
+msgstr "{0} não configurado."
 
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:464
 msgid "No {0} repository is enabled, you do not get any updates!"
-msgstr ""
+msgstr "{0} repositório não está habilitado, não terá nenhuma atualização!"
 
 #: proxmox-widget-toolkit/src/window/TaskViewer.js:146
 #: pmg-gui/js/ClusterAdministration.js:224 pmg-gui/js/ServerStatus.js:58
@@ -5308,18 +5295,16 @@ msgid "Node"
 msgstr "Nó"
 
 #: pmg-gui/js/Dashboard.js:388
-#, fuzzy
 msgid "Node Resources"
-msgstr "Recursos"
+msgstr "Recursos do Nó"
 
 #: pve-manager/www/manager6/dc/Backup.js:895
 msgid "Node is offline"
-msgstr ""
+msgstr "Nó está desligado"
 
 #: pve-manager/www/manager6/dc/Cluster.js:274
-#, fuzzy
 msgid "Nodename"
-msgstr "Nó"
+msgstr "Nome do Nó"
 
 #: pmg-gui/js/ClusterAdministration.js:128
 #: pve-manager/www/manager6/dc/Health.js:102
@@ -5339,7 +5324,7 @@ msgstr "Nós"
 
 #: pve-manager/www/manager6/node/StatusView.js:44
 msgid "Non production-ready repository enabled!"
-msgstr ""
+msgstr "Sem repositório de produção habilitado!"
 
 #: proxmox-widget-toolkit/src/Utils.js:49 pmg-gui/js/PBSSnapshotView.js:179
 #: pve-manager/www/manager6/Utils.js:281
@@ -5351,16 +5336,15 @@ msgstr ""
 #: proxmox-backup/www/datastore/Content.js:773
 #: proxmox-backup/www/datastore/Content.js:787
 msgid "None"
-msgstr ""
+msgstr "Nenhum"
 
 #: proxmox-widget-toolkit/src/window/DiskSmart.js:46
 msgid "Normalized"
-msgstr ""
+msgstr "Normalizado"
 
 #: proxmox-backup/www/tape/ChangerStatus.js:628
-#, fuzzy
 msgid "Not Labeled"
-msgstr "Volume base"
+msgstr "Sem rótulo"
 
 #: proxmox-widget-toolkit/src/Toolkit.js:143
 msgid "Not a valid DNS name or IP address."
@@ -5368,33 +5352,29 @@ msgstr "Este não é um DNS ou IP válido."
 
 #: proxmox-widget-toolkit/src/Toolkit.js:169
 msgid "Not a valid list of hosts"
-msgstr ""
+msgstr "Lista de hosts não é válida"
 
 #: pve-manager/www/manager6/Utils.js:391
-#, fuzzy
 msgid "Not a volume"
-msgstr "Volume base"
+msgstr "Não é um volume"
 
 #: proxmox-backup/www/config/WebauthnView.js:13
 #: proxmox-backup/www/config/WebauthnView.js:18
 #: proxmox-backup/www/config/WebauthnView.js:23
-#, fuzzy
 msgid "Not configured"
-msgstr "Uso do disco"
+msgstr "Não configurado"
 
 #: proxmox-backup/www/Utils.js:281
 msgid "Not enough data"
-msgstr ""
+msgstr "Não há dados suficientes"
 
 #: proxmox-widget-toolkit/src/node/APTRepositories.js:44
-#, fuzzy
 msgid "Not yet configured"
-msgstr "Uso do disco"
+msgstr "Ainda não configurado"
 
 #: pve-manager/www/manager6/qemu/MachineEdit.js:113
-#, fuzzy
 msgid "Note"
-msgstr "Notas"
+msgstr "Nota"
 
 #: proxmox-backup/www/config/WebauthnView.js:121
 msgid "Note:"
@@ -5405,12 +5385,16 @@ msgid ""
 "Note: If anything goes wrong during the live-restore, new data written by "
 "the VM may be lost."
 msgstr ""
+"Nota: Se algo der errado durante a restauração ao vivo, novos dados gravados "
+"pela VM podem ser perdidos."
 
 #: proxmox-backup/www/window/BackupFileDownloader.js:128
 msgid ""
 "Note: Signatures of signed files will not be verified on the server. Please "
 "use the client to do this."
 msgstr ""
+"Nota: As assinaturas dos arquivos assinados não serão verificadas no "
+"servidor. Use o cliente para fazer isso."
 
 #: pve-manager/www/manager6/grid/BackupView.js:283
 #: pve-manager/www/manager6/grid/BackupView.js:318
@@ -5428,32 +5412,28 @@ msgid "Notification"
 msgstr "Notificação"
 
 #: pmg-gui/js/PBSRemoteEdit.js:60 proxmox-backup/www/datastore/OptionView.js:75
-#, fuzzy
 msgid "Notify"
-msgstr "Usuário"
+msgstr "Notificar"
 
 #: proxmox-backup/www/datastore/OptionView.js:92
 #: proxmox-backup/www/tape/window/TapeBackup.js:60
 #: proxmox-backup/www/tape/window/TapeBackupJob.js:70
 #: proxmox-backup/www/tape/window/TapeRestore.js:392
 #: proxmox-backup/www/window/NotifyOptions.js:54
-#, fuzzy
 msgid "Notify User"
-msgstr "Usuário"
+msgstr "Notificar Usuário"
 
 #: pve-manager/www/manager6/form/IPProtocolSelector.js:16
-#, fuzzy
 msgid "Number"
-msgstr "Membros"
+msgstr "Número"
 
 #: pve-manager/www/manager6/node/LVM.js:71
-#, fuzzy
 msgid "Number of LVs"
-msgstr "Membros"
+msgstr "Número de LVs"
 
 #: pve-manager/www/manager6/dc/Cluster.js:192
 msgid "Number of Nodes"
-msgstr ""
+msgstr "Número de Nós"
 
 #: proxmox-widget-toolkit/src/node/Tasks.js:344
 #: proxmox-widget-toolkit/src/window/Edit.js:298 pmg-gui/js/LoginView.js:77
@@ -5468,11 +5448,11 @@ msgstr ""
 #: proxmox-backup/www/tape/ChangerStatus.js:217
 #: proxmox-backup/www/tape/window/LabelMedia.js:9
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: pve-manager/www/manager6/qemu/CreateWizard.js:134
 msgid "OS"
-msgstr ""
+msgstr "SO"
 
 #: pve-manager/www/manager6/lxc/Options.js:50
 #: pve-manager/www/manager6/qemu/Options.js:80
