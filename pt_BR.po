@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: <support@proxmox.com>\n"
 "POT-Creation-Date: Mon Jul  5 18:06:27 2021\n"
 "PO-Revision-Date: 2021-08-22 17:14+0000\n"
-"Last-Translator: Claudio Filho F Filho <filhocf@gmail.com>\n"
+"Last-Translator: Cw Williamson <cwownsme@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "proxmox/i18n/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -5029,7 +5029,7 @@ msgstr "Próximo Sincronismo"
 #: pve-manager/www/manager6/node/Subscription.js:144
 #: proxmox-backup/www/Subscription.js:135
 msgid "Next due date"
-msgstr "Próxima data de expiração"
+msgstr "Next due date"
 
 #: proxmox-widget-toolkit/src/Utils.js:45 pve-manager/www/manager6/Utils.js:267
 #: pve-manager/www/manager6/Utils.js:312
@@ -5456,9 +5456,8 @@ msgstr "SO"
 
 #: pve-manager/www/manager6/lxc/Options.js:50
 #: pve-manager/www/manager6/qemu/Options.js:80
-#, fuzzy
 msgid "OS Type"
-msgstr "Tipo"
+msgstr ""
 
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:79
 #: proxmox-widget-toolkit/src/node/NetworkEdit.js:99
