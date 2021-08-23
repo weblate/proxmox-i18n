@@ -11,14 +11,17 @@ msgstr ""
 "Project-Id-Version: pve-manager 31813246103b2582162f422dc34d8077eaee1e01\n"
 "Report-Msgid-Bugs-To: <support@proxmox.com>\n"
 "POT-Creation-Date: Mon Jul  5 18:06:27 2021\n"
-"PO-Revision-Date: 2021-05-03 12:34+0200\n"
-"Last-Translator: \n"
-"Language-Team: LANGUAGE <support@proxmox.com>\n"
+"PO-Revision-Date: 2021-08-23 18:51+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/proxmox/i18n/ar/>"
+"\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #: pve-manager/www/manager6/qemu/Options.js:95
 msgid "(No boot device selected)"
@@ -3922,7 +3925,8 @@ msgid ""
 "It's preferred to configure backup retention directly on the Proxmox Backup "
 "Server."
 msgstr ""
-"يُفضل تكوين الاحتفاظ بالنسخ الاحتياطي مباشرةً على خادم النسخ الاحتياطي Proxmox."
+"يُفضل تكوين الاحتفاظ بالنسخ الاحتياطي مباشرةً على خادم النسخ الاحتياطي "
+"Proxmox."
 
 #: pve-manager/www/manager6/grid/Replication.js:300
 msgid "Job"
@@ -9596,8 +9600,7 @@ msgstr "تحذير: جدار الحماية لا يزال معطلاً على م
 
 #: pve-manager/www/manager6/qemu/BootOrderEdit.js:201
 msgid "Warning: No devices selected, the VM will probably not boot!"
-msgstr ""
-"تحذير: لم يتم تحديد أي أجهزة ، من المحتمل ألا يتم تشغيل الجهاز الظاهري!"
+msgstr "تحذير: لم يتم تحديد أي أجهزة ، من المحتمل ألا يتم تشغيل الجهاز الظاهري!"
 
 #: pve-manager/www/manager6/qemu/HDEfi.js:50
 msgid "Warning: The VM currently does not uses 'OVMF (UEFI)' as BIOS."
