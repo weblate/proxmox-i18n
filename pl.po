@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: proxmox translations\n"
 "Report-Msgid-Bugs-To: <support@proxmox.com>\n"
 "POT-Creation-Date: Mon Jul  5 18:06:27 2021\n"
-"PO-Revision-Date: 2021-05-04 08:05+0200\n"
-"Last-Translator: Daniel Koć <daniel@xn--ko-wla.pl>\n"
-"Language-Team: Polish\n"
+"PO-Revision-Date: 2021-08-23 18:57+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/proxmox/i18n/pl/>"
+"\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #: pve-manager/www/manager6/qemu/Options.js:95
 msgid "(No boot device selected)"
@@ -2551,8 +2552,8 @@ msgstr "Egress"
 msgid ""
 "Either reboot or use 'Apply Configuration' (needs ifupdown2) to activate"
 msgstr ""
-"aktywacja przez restart lub naciśnięcie przycisku \"Zastosuj zmiany"
-"\" (wymaga pakietu ifupdown2)"
+"aktywacja przez restart lub naciśnięcie przycisku \"Zastosuj zmiany\" ("
+"wymaga pakietu ifupdown2)"
 
 #: proxmox-backup/www/tape/BackupJobs.js:205
 #: proxmox-backup/www/tape/DriveStatus.js:225
@@ -10048,8 +10049,7 @@ msgstr "tylko uprzywilejowane"
 #: pve-manager/www/manager6/node/ACME.js:525
 msgid ""
 "pveproxy will be restarted with new certificates, please reload the GUI!"
-msgstr ""
-"pveproxy zostanie zrestartowane z nowymi certyfikatami, odśwież stronę!"
+msgstr "pveproxy zostanie zrestartowane z nowymi certyfikatami, odśwież stronę!"
 
 #: proxmox-widget-toolkit/src/Utils.js:56
 msgid "running"
