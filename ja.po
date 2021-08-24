@@ -8,18 +8,19 @@ msgstr ""
 "Project-Id-Version: proxmox translations\n"
 "Report-Msgid-Bugs-To: <support@proxmox.com>\n"
 "POT-Creation-Date: Mon Jul  5 18:06:27 2021\n"
-"PO-Revision-Date: 2018-12-26 11:17+0900\n"
-"Last-Translator: ribbon <ribbon@users.osdn.me>\n"
-"Language-Team: Japanese <kde-i18n-doc@kde.org>\n"
+"PO-Revision-Date: 2021-08-23 19:22+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/proxmox/i18n/ja/"
+">\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: Japanese\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.8.1-dev\n"
+"X-Poedit-Language: Japanese\n"
 "X-Language: ja_JP\n"
 "X-Source-Language: C\n"
-"X-Generator: Lokalize 2.0\n"
 
 #: pve-manager/www/manager6/qemu/Options.js:95
 msgid "(No boot device selected)"
@@ -102,9 +103,7 @@ msgstr "API Tokens"
 msgid ""
 "API server will be restarted to use new certificates, please reload web-"
 "interface!"
-msgstr ""
-"APIサーバは新しい証明書で再起動します。Webインタフェースを再ロードしてくださ"
-"い!"
+msgstr "APIサーバは新しい証明書で再起動します。Webインタフェースを再ロードしてください!"
 
 #: proxmox-backup/www/window/TokenEdit.js:15
 msgid "API token"
@@ -533,8 +532,7 @@ msgstr "本当に {0} を消去してよいですか?"
 msgid ""
 "Assisted join: Paste encoded cluster join information and enter password."
 msgstr ""
-"アシストされたjoin: エンコードされたクラスタjoin情報を貼り付け、パスワードを"
-"入\n"
+"アシストされたjoin: エンコードされたクラスタjoin情報を貼り付け、パスワードを入\n"
 "力."
 
 #: pmg-gui/js/Utils.js:571
@@ -1166,8 +1164,7 @@ msgstr "ポートを選択"
 msgid ""
 "Choose if you want to keep or override the privilege level of the restored "
 "Container."
-msgstr ""
-"リストアされたコンテナの特権レベルをうわ餓死するかそのままにするかを指定。"
+msgstr "リストアされたコンテナの特権レベルをうわ餓死するかそのままにするかを指定。"
 
 #: pmg-gui/js/VirusDetectorConfiguration.js:18
 msgid "ClamAV"
@@ -2039,9 +2036,7 @@ msgstr "ソースの削除"
 msgid ""
 "Deleting or replacing the encryption key will break restoring backups "
 "created with it!"
-msgstr ""
-"暗号化キーの削除又は置換を行うとそれで作成されたバックアップの復元ができなく"
-"なります!"
+msgstr "暗号化キーの削除又は置換を行うとそれで作成されたバックアップの復元ができなくなります!"
 
 #: pmg-gui/js/AttachmentQuarantine.js:168 pmg-gui/js/SpamContextMenu.js:18
 #: pmg-gui/js/SpamQuarantine.js:363 pmg-gui/js/VirusQuarantine.js:177
@@ -2199,9 +2194,7 @@ msgstr "無効"
 msgid ""
 "Disabling the limiter can potentially allow a guest to overload the host. "
 "Proceed with caution."
-msgstr ""
-"リミッタを無効にすると、ゲストがホストを過剰に使う可能性が起こりえます。使用"
-"には注意してください。"
+msgstr "リミッタを無効にすると、ゲストがホストを過剰に使う可能性が起こりえます。使用には注意してください。"
 
 #: pve-manager/www/manager6/qemu/HDEdit.js:229
 msgid "Discard"
@@ -2692,9 +2685,7 @@ msgstr "暗号化済み"
 msgid ""
 "Encrypted Files cannot be decoded on the server directly. Please use the "
 "client where the decryption key is located."
-msgstr ""
-"暗号化ファイルはサーバでは直接復号できない。復号化キーがあるクライアントを使"
-"用してください。"
+msgstr "暗号化ファイルはサーバでは直接復号できない。復号化キーがあるクライアントを使用してください。"
 
 #: pmg-gui/js/PBSConfig.js:166 pve-manager/www/manager6/storage/PBSEdit.js:452
 #: proxmox-backup/www/tape/PoolConfig.js:124
@@ -3929,16 +3920,13 @@ msgstr "発行者"
 msgid ""
 "It is recommended to either include the RAM or use the QEMU Guest Agent when "
 "taking a snapshot of a running VM to avoid inconsistencies."
-msgstr ""
-"矛盾なく動作中のVMのスナップショットを取るには、RAMを含めるか、QEMUゲストエー"
-"ジェントを使用するかどちらかを推奨。"
+msgstr "矛盾なく動作中のVMのスナップショットを取るには、RAMを含めるか、QEMUゲストエージェントを使用するかどちらかを推奨。"
 
 #: pve-manager/www/manager6/storage/Base.js:147
 msgid ""
 "It's preferred to configure backup retention directly on the Proxmox Backup "
 "Server."
-msgstr ""
-"Proxmoxバックアップサーバで直接バックアップretentionを設定することを推奨。"
+msgstr "Proxmoxバックアップサーバで直接バックアップretentionを設定することを推奨。"
 
 #: pve-manager/www/manager6/grid/Replication.js:300
 msgid "Job"
@@ -4052,9 +4040,7 @@ msgstr "古いメールを保存"
 #: pve-manager/www/manager6/storage/PBSEdit.js:43
 msgid ""
 "Keep your encryption key safe, but easily accessible for disaster recovery."
-msgstr ""
-"マスタキーを安全に保存するが、災害復旧のために容易にアクセス出来るようにしま"
-"す。"
+msgstr "マスタキーを安全に保存するが、災害復旧のために容易にアクセス出来るようにします。"
 
 #: pve-manager/www/manager6/node/StatusView.js:152
 msgid "Kernel Version"
@@ -4189,9 +4175,7 @@ msgstr "レイアウト"
 #: proxmox-backup/www/LoginView.js:672
 msgid ""
 "Less than {0} recovery keys available. Please generate a new set after login!"
-msgstr ""
-"{0} より小さいリカバリキーが有効です。ログイン後に新しいセットを生成してくだ"
-"さい!"
+msgstr "{0} より小さいリカバリキーが有効です。ログイン後に新しいセットを生成してください!"
 
 #: pve-manager/www/manager6/window/Settings.js:328
 #: proxmox-backup/www/window/Settings.js:228
@@ -4407,9 +4391,7 @@ msgstr "マシン"
 msgid ""
 "Machine version change may affect hardware layout and settings in the guest "
 "OS."
-msgstr ""
-"マシンのバージョン変更はハードウェアレイアウトとゲストOSの設定に影響する場合"
-"があります。"
+msgstr "マシンのバージョン変更はハードウェアレイアウトとゲストOSの設定に影響する場合があります。"
 
 #: pve-manager/www/manager6/grid/FirewallRules.js:11
 #: pve-manager/www/manager6/grid/FirewallRules.js:166
@@ -4439,9 +4421,7 @@ msgstr "メール数/分"
 msgid ""
 "Make sure that the correct tape is inserted the selected drive and type in "
 "the label written on the tape."
-msgstr ""
-"選択したドライブに正しいテープが挿入されていることを確認し、テープに書かれて"
-"いるラベルを入力します。"
+msgstr "選択したドライブに正しいテープが挿入されていることを確認し、テープに書かれているラベルを入力します。"
 
 #: pve-manager/www/manager6/form/AgentFeatureSelector.js:27
 msgid "Make sure the QEMU Guest Agent is installed in the VM"
@@ -5398,17 +5378,13 @@ msgstr "注釈："
 msgid ""
 "Note: If anything goes wrong during the live-restore, new data written by "
 "the VM may be lost."
-msgstr ""
-"注釈：ライブリストア中になにかうまく行かなくなった場合、VMによって書き込まれ"
-"た新しいデータはなくなります。"
+msgstr "注釈：ライブリストア中になにかうまく行かなくなった場合、VMによって書き込まれた新しいデータはなくなります。"
 
 #: proxmox-backup/www/window/BackupFileDownloader.js:128
 msgid ""
 "Note: Signatures of signed files will not be verified on the server. Please "
 "use the client to do this."
-msgstr ""
-"注意: 署名されたファイルのシグネチャはサーバーでは検証されません。クライアン"
-"トを使ってください。"
+msgstr "注意: 署名されたファイルのシグネチャはサーバーでは検証されません。クライアントを使ってください。"
 
 #: pve-manager/www/manager6/grid/BackupView.js:283
 #: pve-manager/www/manager6/grid/BackupView.js:318
@@ -5614,9 +5590,7 @@ msgstr "他のエラー"
 msgid ""
 "Other cluster members use a newer version of this service, please upgrade "
 "and restart"
-msgstr ""
-"他のクラスタメンバがこのサービスの新バージョンを使用していますので、アップグ"
-"レード後再始動してください"
+msgstr "他のクラスタメンバがこのサービスの新バージョンを使用していますので、アップグレード後再始動してください"
 
 #: pmg-gui/js/Utils.js:115 pve-manager/www/manager6/ceph/StatusDetail.js:40
 msgid "Out"
@@ -5901,9 +5875,7 @@ msgstr "pmg-smtp-filter の変更を有効にするため再起動してくだ�
 msgid ""
 "Please save the encryption key - losing it will render any backup created "
 "with it unusable"
-msgstr ""
-"暗号化キーを保存してください - なくすとそれで作成したバックアップが使えなくな"
-"ります"
+msgstr "暗号化キーを保存してください - なくすとそれで作成したバックアップが使えなくなります"
 
 #: pmg-gui/js/ContactStatistics.js:11 pmg-gui/js/ContactStatistics.js:31
 msgid "Please select a contact"
@@ -5930,9 +5902,7 @@ msgstr "オブジェクトを選択してください。"
 msgid ""
 "Please use the 'Join' button on the node you want to add, using the "
 "following IP address and fingerprint."
-msgstr ""
-"以下のIPアドレスとフィンガープリントを使って追加したいノード上で 'Join' ボタ"
-"ンを使ってください。"
+msgstr "以下のIPアドレスとフィンガープリントを使って追加したいノード上で 'Join' ボタンを使ってください。"
 
 #: proxmox-widget-toolkit/src/Utils.js:411
 #: proxmox-widget-toolkit/src/window/LanguageEdit.js:23
@@ -6651,9 +6621,7 @@ msgstr "レプリケーション、HAとバックアップジョブの削除"
 #: proxmox-backup/www/window/SyncJobEdit.js:160
 msgid ""
 "Remove snapshots from local datastore if they vanished from source datastore?"
-msgstr ""
-"ソースデータストアから消えていた場合、ローカルデータストアからスナップショッ"
-"トを削除する?"
+msgstr "ソースデータストアから消えていた場合、ローカルデータストアからスナップショットを削除する?"
 
 #: proxmox-backup/www/window/SyncJobEdit.js:155
 msgid "Remove vanished"
@@ -7044,9 +7012,7 @@ msgstr "TOTP アプリで QRコードのスキャンとP認証コードの入力
 
 #: pve-manager/www/manager6/window/SafeDestroyGuest.js:28
 msgid "Scan all enabled storages for unreferenced disks and delete them."
-msgstr ""
-"未参照のディスクを探すためにすべての有効なストレージをスキャンし、それを削"
-"除。"
+msgstr "未参照のディスクを探すためにすべての有効なストレージをスキャンし、それを削除。"
 
 #: pve-manager/www/manager6/storage/CIFSEdit.js:11
 #: pve-manager/www/manager6/storage/IScsiEdit.js:10
@@ -7171,9 +7137,7 @@ msgstr "時間範囲を選択"
 msgid ""
 "Select if join information should be extracted from pasted cluster "
 "information, deselect for manual entering"
-msgstr ""
-"ペーストされたクラスタ情報からjoin情報を抽出するかを選択し、手動で入力したも"
-"のを選択解除します"
+msgstr "ペーストされたクラスタ情報からjoin情報を抽出するかを選択し、手動で入力したものを選択解除します"
 
 #: pmg-gui/js/AttachmentQuarantine.js:146 pmg-gui/js/SpamQuarantine.js:308
 #: pmg-gui/js/VirusQuarantine.js:155
@@ -7445,9 +7409,7 @@ msgstr "詳細の表示"
 #: pve-manager/www/manager6/dc/Backup.js:1002
 msgid ""
 "Show job details and which guests and volumes are affected by the backup job"
-msgstr ""
-"ジョブの詳細と、どのゲストとボリュームがバックアップジョブに影響しているかの"
-"表示"
+msgstr "ジョブの詳細と、どのゲストとボリュームがバックアップジョブに影響しているかの表示"
 
 #: pmg-gui/js/ServerStatus.js:64 pmg-gui/js/ServerStatus.js:66
 #: pve-manager/www/manager6/Utils.js:1795
@@ -8430,9 +8392,7 @@ msgstr ""
 msgid ""
 "The ratio of storage amount this pool will consume compared to other pools "
 "with ratios. Used for auto-scaling."
-msgstr ""
-"このプールのストレージ量の割合は、割合がある他のプールと比べてより多く消費し"
-"ます。自動スケーリングのために使われます。"
+msgstr "このプールのストレージ量の割合は、割合がある他のプールと比べてより多く消費します。自動スケーリングのために使われます。"
 
 #: pve-manager/www/manager6/qemu/HardwareView.js:183
 msgid "The saved VM state will be permanently lost."
@@ -8541,17 +8501,13 @@ msgstr "To Slot"
 msgid ""
 "To register a U2F device, connect the device, then click the button and "
 "follow the instructions."
-msgstr ""
-"U2Fデバイスを登録するため、デバイスに接続し、ボタンをクリックし手順に従ってく"
-"ださい。"
+msgstr "U2Fデバイスを登録するため、デバイスに接続し、ボタンをクリックし手順に従ってください。"
 
 #: pve-manager/www/manager6/form/SpiceEnhancementSelector.js:32
 msgid ""
 "To use these features set the display to SPICE in the hardware settings of "
 "the VM."
-msgstr ""
-"それらの機能を使うため、VMのハードウェア設定中で表示をSPICEに設定してくださ"
-"い。"
+msgstr "それらの機能を使うため、VMのハードウェア設定中で表示をSPICEに設定してください。"
 
 #: pmg-gui/js/AttachmentQuarantine.js:161 pmg-gui/js/SpamQuarantine.js:323
 #: pmg-gui/js/VirusQuarantine.js:170
@@ -9201,9 +9157,8 @@ msgid ""
 "entropy starvation. /dev/urandom is preferred, and does not lead to a "
 "decrease in security in practice."
 msgstr ""
-"ホストのエントロピー欠乏につながることがあるので、/dev/random をエントロピー"
-"ソースとして使うことはお勧めしません。実際にはセキュリティの低下には繋がらな"
-"い /dev/urandomを推奨します。"
+"ホストのエントロピー欠乏につながることがあるので、/dev/random をエントロピーソースとして使うことはお勧めしません。"
+"実際にはセキュリティの低下には繋がらない /dev/urandomを推奨します。"
 
 #: proxmox-widget-toolkit/src/panel/ACMEDomains.js:266
 #: pve-manager/www/manager6/node/ACME.js:583
@@ -9554,9 +9509,7 @@ msgstr "WALサイズ"
 msgid ""
 "WARNING: You do not have permission to configure custom CPU types, if you "
 "change the type you will not be able to go back!"
-msgstr ""
-"警告: カスタムCPUタイプを設定する権限がありません。タイプを変更したい場合は、"
-"戻ることができません!"
+msgstr "警告: カスタムCPUタイプを設定する権限がありません。タイプを変更したい場合は、戻ることができません!"
 
 #: proxmox-backup/www/LoginView.js:605
 msgid "Waiting for second factor."
@@ -9592,9 +9545,7 @@ msgstr "警告: VMは現在BIOSとして 'OVMF (UEFI)' を使っていません�
 #: pmg-gui/js/DKIMSettings.js:155
 msgid ""
 "Warning: You need to update the _domainkey DNS records of all signed domains!"
-msgstr ""
-"警告: すべての署名されているドメインについて、_domainkey DNSレコードの更新を"
-"行わなければなりません!"
+msgstr "警告: すべての署名されているドメインについて、_domainkey DNSレコードの更新を行わなければなりません!"
 
 #: pmg-gui/js/dashboard/SubscriptionInfo.js:25
 #: pve-manager/www/manager6/dc/Summary.js:251
@@ -9676,25 +9627,19 @@ msgstr "ディスクの消去"
 msgid ""
 "With this feature, you can manually bypass spam checking for certain domains "
 "or E-mail addresses."
-msgstr ""
-"この機能で、あるドメインやEメールアドレスをマニュアルでスパムチェック回避する"
-"ことができます。"
+msgstr "この機能で、あるドメインやEメールアドレスをマニュアルでスパムチェック回避することができます。"
 
 #: pmg-gui/js/UserBlackWhiteList.js:228
 msgid ""
 "With this feature, you can manually mark E-mails from certain domains or "
 "addresses as spam."
-msgstr ""
-"この機能で、あるドメインやアドレスからのEメールをマニュアルでスパムマークをつ"
-"けることができます。"
+msgstr "この機能で、あるドメインやアドレスからのEメールをマニュアルでスパムマークをつけることができます。"
 
 #: pve-manager/www/manager6/storage/Base.js:139
 msgid ""
 "Without any keep option, the node\\'s vzdump.conf or `keep-all` is used as "
 "fallback for backup jobs"
-msgstr ""
-"keepオプションがない場合、ノードのvzdump.conf又は `keep-all` はバックアップ"
-"ジョブのフォールバックとして使用されます"
+msgstr "keepオプションがない場合、ノードのvzdump.conf又は `keep-all` はバックアップジョブのフォールバックとして使用されます"
 
 #: pve-manager/www/manager6/ceph/StatusDetail.js:181
 msgid "Working"
@@ -9783,9 +9728,7 @@ msgstr "サブスクリプションのないノードが少なくとも1つあ�
 msgid ""
 "You need to add an EFI disk for storing the EFI settings. See the online "
 "help for details."
-msgstr ""
-"EFIの設定を保存するために、EFIディスクを追加しなければなりません。詳細はオン"
-"ラインヘルプを参照してください。"
+msgstr "EFIの設定を保存するために、EFIディスクを追加しなければなりません。詳細はオンラインヘルプを参照してください。"
 
 #: pmg-gui/js/DKIMSettings.js:9
 msgid "You need to create a Selector before enabling DKIM Signing"
@@ -9979,9 +9922,7 @@ msgstr "最大"
 #: pve-manager/www/manager6/ceph/Pool.js:100
 msgid ""
 "min_size < size/2 can lead to data loss, incomplete PGs or unfound objects."
-msgstr ""
-"min_size < size/2 の場合、データが失われたり、プログラムが不完全になったり、"
-"オブジェクトが見つからなくなる可能性があります。"
+msgstr "min_size < size/2 の場合、データが失われたり、プログラムが不完全になったり、オブジェクトが見つからなくなる可能性があります。"
 
 #: proxmox-backup/www/Utils.js:8
 msgid "missing"

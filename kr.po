@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: proxmox translations\n"
 "Report-Msgid-Bugs-To: <support@proxmox.com>\n"
 "POT-Creation-Date: Mon Jul  5 18:06:27 2021\n"
-"PO-Revision-Date: 2021-03-08 17:02+0900\n"
-"Last-Translator: Jucheol Kim <jucheol.kim@bitclue.co.kr>\n"
-"Language-Team: BitClue\n"
-"Language: ko_KR\n"
+"PO-Revision-Date: 2021-08-23 19:23+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Kanuri <https://hosted.weblate.org/projects/proxmox/i18n/kr/>"
+"\n"
+"Language: kr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: pve-manager/www/manager6/qemu/Options.js:95
@@ -1002,8 +1003,7 @@ msgstr "디스크 이미지를 제거할 수 없습니다."
 
 #: pve-manager/www/manager6/storage/ImageView.js:48
 msgid "Cannot remove image, a guest with VMID '{0}' exists!"
-msgstr ""
-"이미지를 제거할 수 없습니다, VMID '{0}'이(가) 있는 게스트가 존재합니다!"
+msgstr "이미지를 제거할 수 없습니다, VMID '{0}'이(가) 있는 게스트가 존재합니다!"
 
 #: pve-manager/www/manager6/form/StorageSelector.js:29
 msgid "Capacity"
@@ -1285,9 +1285,7 @@ msgstr "클러스터 노드"
 #: pve-manager/www/manager6/dc/ClusterEdit.js:278
 msgid ""
 "Cluster join task finished, node certificate may have changed, reload GUI!"
-msgstr ""
-"클러스터 가입 작업을 완료하고 노드 인증서가 변경되었으므로, GUI를 다시 로드하"
-"시오!"
+msgstr "클러스터 가입 작업을 완료하고 노드 인증서가 변경되었으므로, GUI를 다시 로드하시오!"
 
 #: pve-manager/www/manager6/panel/StatusPanel.js:39
 msgid "Cluster log"
@@ -1506,8 +1504,7 @@ msgstr "접속 오류"
 
 #: pve-manager/www/manager6/window/LoginWindow.js:109
 msgid "Connection failure. Network error or Proxmox VE services not running?"
-msgstr ""
-"접속 실패. 네트워크 오류이거나 Proxmox VE 서비스가 실행되고 있지 않습니다?"
+msgstr "접속 실패. 네트워크 오류이거나 Proxmox VE 서비스가 실행되고 있지 않습니다?"
 
 #: proxmox-widget-toolkit/src/Utils.js:618 pmg-gui/js/ServerStatus.js:50
 #: pve-manager/www/manager6/Utils.js:1826
@@ -1748,8 +1745,7 @@ msgstr "사용자 지정"
 #: pve-manager/www/manager6/dc/TFAEdit.js:169
 msgid ""
 "Custom 2nd factor configuration is not supported on realms with '{0}' TFA."
-msgstr ""
-"사용자 지정 2단계 구성은 '{0}' TFA를 사용하는 영역에서는 지원되지 않습니다."
+msgstr "사용자 지정 2단계 구성은 '{0}' TFA를 사용하는 영역에서는 지원되지 않습니다."
 
 #: pmg-gui/js/SpamDetectorCustom.js:113 pmg-gui/js/SpamDetectorCustom.js:158
 msgid "Custom Rule Score"
@@ -2042,8 +2038,7 @@ msgstr "소스 삭제"
 msgid ""
 "Deleting or replacing the encryption key will break restoring backups "
 "created with it!"
-msgstr ""
-"암호 키를 삭제 또는 교체하면 그 키로 생성한 백업을 복구할 수 없을 것입니다!"
+msgstr "암호 키를 삭제 또는 교체하면 그 키로 생성한 백업을 복구할 수 없을 것입니다!"
 
 #: pmg-gui/js/AttachmentQuarantine.js:168 pmg-gui/js/SpamContextMenu.js:18
 #: pmg-gui/js/SpamQuarantine.js:363 pmg-gui/js/VirusQuarantine.js:177
@@ -2202,9 +2197,7 @@ msgstr "사용 안 함"
 msgid ""
 "Disabling the limiter can potentially allow a guest to overload the host. "
 "Proceed with caution."
-msgstr ""
-"제한자를 사용하지 않도록 하면 게스트가 호스트에 과부하를 초래할 수 있습니다. "
-"주의해서 진행하십시오."
+msgstr "제한자를 사용하지 않도록 하면 게스트가 호스트에 과부하를 초래할 수 있습니다. 주의해서 진행하십시오."
 
 #: pve-manager/www/manager6/qemu/HDEdit.js:229
 msgid "Discard"
@@ -2703,9 +2696,7 @@ msgstr "암호화"
 msgid ""
 "Encrypted Files cannot be decoded on the server directly. Please use the "
 "client where the decryption key is located."
-msgstr ""
-"암호화한 파일은 서버에서 직접 복호화할 수 업습니다. 복호화 키가 있는 클라이언"
-"트를 사용하십시오."
+msgstr "암호화한 파일은 서버에서 직접 복호화할 수 업습니다. 복호화 키가 있는 클라이언트를 사용하십시오."
 
 #: pmg-gui/js/PBSConfig.js:166 pve-manager/www/manager6/storage/PBSEdit.js:452
 #: proxmox-backup/www/tape/PoolConfig.js:124
@@ -3962,8 +3953,7 @@ msgid ""
 "It is recommended to either include the RAM or use the QEMU Guest Agent when "
 "taking a snapshot of a running VM to avoid inconsistencies."
 msgstr ""
-"실행 중인 VM의 스냅샷을 생성할 때는 RAM을 포함하거나 QEMU Guest Agent를 사용"
-"하여 불일치를 방지하는 것이 좋습니다."
+"실행 중인 VM의 스냅샷을 생성할 때는 RAM을 포함하거나 QEMU Guest Agent를 사용하여 불일치를 방지하는 것이 좋습니다."
 
 #: pve-manager/www/manager6/storage/Base.js:147
 msgid ""
@@ -4084,9 +4074,7 @@ msgstr "오래된 메일 보관"
 #: pve-manager/www/manager6/storage/PBSEdit.js:43
 msgid ""
 "Keep your encryption key safe, but easily accessible for disaster recovery."
-msgstr ""
-"암호화 키를 안전하게 유지하고 재해 복구를 위해 쉽게 액세스할 수 있도록 합니"
-"다."
+msgstr "암호화 키를 안전하게 유지하고 재해 복구를 위해 쉽게 액세스할 수 있도록 합니다."
 
 #: pve-manager/www/manager6/node/StatusView.js:152
 msgid "Kernel Version"
@@ -5456,9 +5444,7 @@ msgstr ""
 msgid ""
 "Note: Signatures of signed files will not be verified on the server. Please "
 "use the client to do this."
-msgstr ""
-"참고: 서명한 피일의 시그니처는 서버에서 검증할 수 없습니다. 이 작업을 할 클라"
-"이언트를 사용하십시오."
+msgstr "참고: 서명한 피일의 시그니처는 서버에서 검증할 수 없습니다. 이 작업을 할 클라이언트를 사용하십시오."
 
 #: pve-manager/www/manager6/grid/BackupView.js:283
 #: pve-manager/www/manager6/grid/BackupView.js:318
@@ -5670,9 +5656,7 @@ msgstr "다른 오류"
 msgid ""
 "Other cluster members use a newer version of this service, please upgrade "
 "and restart"
-msgstr ""
-"다른 클러스터 구성원이 이 서비스의 최신 버전을 사용하므로 업그레이드한 후 다"
-"시 시작하십시오"
+msgstr "다른 클러스터 구성원이 이 서비스의 최신 버전을 사용하므로 업그레이드한 후 다시 시작하십시오"
 
 #: pmg-gui/js/Utils.js:115 pve-manager/www/manager6/ceph/StatusDetail.js:40
 msgid "Out"
@@ -5961,9 +5945,7 @@ msgstr "변경 내용을 활성화하려면 pmg-smtp-filter를 다시 시작하�
 msgid ""
 "Please save the encryption key - losing it will render any backup created "
 "with it unusable"
-msgstr ""
-"암호화 키를 저장하십시오 - 분실하면 이 암호화 키를 사용하여 생성한 모든 백업"
-"을 사용할 수 없게 됩니다"
+msgstr "암호화 키를 저장하십시오 - 분실하면 이 암호화 키를 사용하여 생성한 모든 백업을 사용할 수 없게 됩니다"
 
 #: pmg-gui/js/ContactStatistics.js:11 pmg-gui/js/ContactStatistics.js:31
 msgid "Please select a contact"
@@ -5990,8 +5972,7 @@ msgstr "객체를 선택하십시오."
 msgid ""
 "Please use the 'Join' button on the node you want to add, using the "
 "following IP address and fingerprint."
-msgstr ""
-"다음 IP 주소와 지문을 사용하여 추가할 노드에서 '가입' 버튼을 사용하십시오."
+msgstr "다음 IP 주소와 지문을 사용하여 추가할 노드에서 '가입' 버튼을 사용하십시오."
 
 #: proxmox-widget-toolkit/src/Utils.js:411
 #: proxmox-widget-toolkit/src/window/LanguageEdit.js:23
@@ -6724,8 +6705,7 @@ msgstr "복제 및 백업 작업에서 제거"
 #: proxmox-backup/www/window/SyncJobEdit.js:160
 msgid ""
 "Remove snapshots from local datastore if they vanished from source datastore?"
-msgstr ""
-"스냅샷이 소스 데이터스토어에서 사라지면 로컬 데이터스토어에서 제거하겠습니까?"
+msgstr "스냅샷이 소스 데이터스토어에서 사라지면 로컬 데이터스토어에서 제거하겠습니까?"
 
 #: proxmox-backup/www/window/SyncJobEdit.js:155
 msgid "Remove vanished"
@@ -7252,9 +7232,7 @@ msgstr "시간 범위 선택하기"
 msgid ""
 "Select if join information should be extracted from pasted cluster "
 "information, deselect for manual entering"
-msgstr ""
-"붙여넣은 클러스터 정보에서 가입 정보를 추출하는 경우 선택하고, 수동 입력하려"
-"면 선택을 취소하십시오"
+msgstr "붙여넣은 클러스터 정보에서 가입 정보를 추출하는 경우 선택하고, 수동 입력하려면 선택을 취소하십시오"
 
 #: pmg-gui/js/AttachmentQuarantine.js:146 pmg-gui/js/SpamQuarantine.js:308
 #: pmg-gui/js/VirusQuarantine.js:155
@@ -8645,16 +8623,13 @@ msgstr ""
 msgid ""
 "To register a U2F device, connect the device, then click the button and "
 "follow the instructions."
-msgstr ""
-"U2F 장치를 등록하려면 장치를 연결한 다음 버튼을 클릭하고 지침을 따르십시오."
+msgstr "U2F 장치를 등록하려면 장치를 연결한 다음 버튼을 클릭하고 지침을 따르십시오."
 
 #: pve-manager/www/manager6/form/SpiceEnhancementSelector.js:32
 msgid ""
 "To use these features set the display to SPICE in the hardware settings of "
 "the VM."
-msgstr ""
-"이러한 기능을 사용하려면 VM의 하드웨어 설정에서 디스플레이를 SPICE로 설정하십"
-"시오."
+msgstr "이러한 기능을 사용하려면 VM의 하드웨어 설정에서 디스플레이를 SPICE로 설정하십시오."
 
 #: pmg-gui/js/AttachmentQuarantine.js:161 pmg-gui/js/SpamQuarantine.js:323
 #: pmg-gui/js/VirusQuarantine.js:170
@@ -9309,9 +9284,8 @@ msgid ""
 "entropy starvation. /dev/urandom is preferred, and does not lead to a "
 "decrease in security in practice."
 msgstr ""
-"엔트로피 소스로 /dev/random을 사용하는 것은 호스트 엔트로피 고갈로 이어질 수 "
-"있기 때문에 금한다. 더 나은 것은 /dev/urandom으로, 실제로 보안 약화를 초래하"
-"지도 않는다."
+"엔트로피 소스로 /dev/random을 사용하는 것은 호스트 엔트로피 고갈로 이어질 수 있기 때문에 금한다. 더 나은 것은 /dev/"
+"urandom으로, 실제로 보안 약화를 초래하지도 않는다."
 
 #: proxmox-widget-toolkit/src/panel/ACMEDomains.js:266
 #: pve-manager/www/manager6/node/ACME.js:583
@@ -9673,9 +9647,7 @@ msgstr "WAL 크기"
 msgid ""
 "WARNING: You do not have permission to configure custom CPU types, if you "
 "change the type you will not be able to go back!"
-msgstr ""
-"주의: 사용자 지정 CPU 유형을 구성할 수 있는 권한이 없습니다. 유형을 변경하면 "
-"되돌릴 수 없습니다!"
+msgstr "주의: 사용자 지정 CPU 유형을 구성할 수 있는 권한이 없습니다. 유형을 변경하면 되돌릴 수 없습니다!"
 
 #: proxmox-backup/www/LoginView.js:605
 msgid "Waiting for second factor."
@@ -9711,8 +9683,7 @@ msgstr "주의: VM은 현재 BIOS로 'OVMF(UEFI)'를 사용하지 않습니다."
 #: pmg-gui/js/DKIMSettings.js:155
 msgid ""
 "Warning: You need to update the _domainkey DNS records of all signed domains!"
-msgstr ""
-"주의: 서명된 모든 도메인의 _domainkey DNS 레코드를 업데이트해야 합니다!"
+msgstr "주의: 서명된 모든 도메인의 _domainkey DNS 레코드를 업데이트해야 합니다!"
 
 #: pmg-gui/js/dashboard/SubscriptionInfo.js:25
 #: pve-manager/www/manager6/dc/Summary.js:251
@@ -9796,25 +9767,20 @@ msgstr "WAL 디스크"
 msgid ""
 "With this feature, you can manually bypass spam checking for certain domains "
 "or E-mail addresses."
-msgstr ""
-"이 기능은 특정 도메인이나 이메일 주소의 스팸 검사를 수동으로 무시할 수 있습니"
-"다."
+msgstr "이 기능은 특정 도메인이나 이메일 주소의 스팸 검사를 수동으로 무시할 수 있습니다."
 
 #: pmg-gui/js/UserBlackWhiteList.js:228
 msgid ""
 "With this feature, you can manually mark E-mails from certain domains or "
 "addresses as spam."
-msgstr ""
-"이 기능은 특정 도메인이나 주소의 이메일을 수동으로 스팸 표시할 수 있습니다."
+msgstr "이 기능은 특정 도메인이나 주소의 이메일을 수동으로 스팸 표시할 수 있습니다."
 
 #: pve-manager/www/manager6/storage/Base.js:139
 #, fuzzy
 msgid ""
 "Without any keep option, the node\\'s vzdump.conf or `keep-all` is used as "
 "fallback for backup jobs"
-msgstr ""
-"보관(Keep) 옵션이 없으면 vzdump.conf 또는 'keep-last 1' 노드가 백업 작업의 예"
-"비 노드로 사용됩니다"
+msgstr "보관(Keep) 옵션이 없으면 vzdump.conf 또는 'keep-last 1' 노드가 백업 작업의 예비 노드로 사용됩니다"
 
 #: pve-manager/www/manager6/ceph/StatusDetail.js:181
 msgid "Working"
@@ -9905,9 +9871,7 @@ msgstr "하나 이상의 노드에 서브스크립션이 없습니다."
 msgid ""
 "You need to add an EFI disk for storing the EFI settings. See the online "
 "help for details."
-msgstr ""
-"EFI 설정을 저장하려면 EFI 디스크를 추가하십시오. 자세한 내용은 온라인 도움말"
-"을 참조하십시오."
+msgstr "EFI 설정을 저장하려면 EFI 디스크를 추가하십시오. 자세한 내용은 온라인 도움말을 참조하십시오."
 
 #: pmg-gui/js/DKIMSettings.js:9
 msgid "You need to create a Selector before enabling DKIM Signing"

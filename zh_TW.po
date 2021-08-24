@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: pve-manager 3.0\n"
 "Report-Msgid-Bugs-To: <support@proxmox.com>\n"
 "POT-Creation-Date: Mon Jul  5 18:06:27 2021\n"
-"PO-Revision-Date: 2020-11-26 23:30+0800\n"
-"Last-Translator: Jason Cheng <sanyu3u@gmail.com>\n"
-"Language-Team: Traditional Chinese (Taiwan) <>\n"
+"PO-Revision-Date: 2021-08-23 19:27+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
+"proxmox/i18n/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #: pve-manager/www/manager6/qemu/Options.js:95
 msgid "(No boot device selected)"
@@ -3940,9 +3942,7 @@ msgstr "簽發者"
 msgid ""
 "It is recommended to either include the RAM or use the QEMU Guest Agent when "
 "taking a snapshot of a running VM to avoid inconsistencies."
-msgstr ""
-"建議對執作中的虛擬機做快照時，最好勾選 包含記憶體 或啟用 QEMU Guest Agent，以"
-"免發生資料不一致問題。"
+msgstr "建議對執作中的虛擬機做快照時，最好勾選 包含記憶體 或啟用 QEMU Guest Agent，以免發生資料不一致問題。"
 
 #: pve-manager/www/manager6/storage/Base.js:147
 msgid ""
@@ -5433,8 +5433,7 @@ msgstr ""
 msgid ""
 "Note: Signatures of signed files will not be verified on the server. Please "
 "use the client to do this."
-msgstr ""
-"注意：已簽署過的檔案將不會在伺服器上再次驗證，請使用客戶端程式進行驗證。"
+msgstr "注意：已簽署過的檔案將不會在伺服器上再次驗證，請使用客戶端程式進行驗證。"
 
 #: pve-manager/www/manager6/grid/BackupView.js:283
 #: pve-manager/www/manager6/grid/BackupView.js:318
@@ -9281,8 +9280,7 @@ msgid ""
 "entropy starvation. /dev/urandom is preferred, and does not lead to a "
 "decrease in security in practice."
 msgstr ""
-"不建議使用 /dev/random 做為熵的來源，因為它最造成主機的熵耗盡。/dev/urandom "
-"是首選，而且在實際應用時不會造成安全性降低。"
+"不建議使用 /dev/random 做為熵的來源，因為它最造成主機的熵耗盡。/dev/urandom 是首選，而且在實際應用時不會造成安全性降低。"
 
 #: proxmox-widget-toolkit/src/panel/ACMEDomains.js:266
 #: pve-manager/www/manager6/node/ACME.js:583
